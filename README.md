@@ -70,6 +70,10 @@ Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key inst
 
 ## Building and previewing your site locally
 
+Use the following two resources to install Jekyll if you use macOS:
+- https://jekyllrb.com/docs/installation/macos/
+- https://utpalkumar.medium.com/how-to-install-jekyll-on-apple-m1-macbook-c87894b7fc70
+
 Assuming [Jekyll] and [Bundler] are installed on your computer:
 
 1.  Change your working directory to the root directory of your site.
