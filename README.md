@@ -1,6 +1,8 @@
-# just-the-docs-template
+# multix-docs
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This repository hosts the code for the documentaion of the MultiX Lab Amsterdam.
+
+This website is built using [Jekyll] that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
