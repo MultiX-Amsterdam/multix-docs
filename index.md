@@ -16,6 +16,7 @@ layout: home
 
 Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! Below is a list of the onboarding procedure:
 - [ ] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
+- [ ] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
 - [ ] Ask Nanne van Noord to add you to the group mailing list
 - [ ] Ask Nanne van Noord to add you to our Microsoft Outlook group calendar
 - [ ] Ask Yen-Chia Hsu to add you to our Slack channel
