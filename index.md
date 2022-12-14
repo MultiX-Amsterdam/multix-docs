@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+# MultiX Lab General Information
+
 Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for the lab documentation. For our official lab website, please visit [https://multix.io](https://multix.io).
 
 ### Table of Content
