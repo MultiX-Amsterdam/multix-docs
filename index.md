@@ -61,28 +61,26 @@ Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for t
 ## <a name="phd"></a>For PhD Students
 
 Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/science/phd/phd-candidates.html). Below are some other PhD handbooks:
-- [Autonomous Agents Research Group HandBook, University of Edinburgh](https://agents.inf.ed.ac.uk/phd-handbook/)
-- [Eric Gilbert's PhD Student Handbook, University of Michigan](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
-- [Mor Naaman's PhD Student Handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
-- [Makeability Lab Handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
-- [Jan van Gemert's Research Guidelines, TU Delft](https://jvgemert.github.io/links.html)
+- [Autonomous Agents Research Group handBook, University of Edinburgh](https://agents.inf.ed.ac.uk/phd-handbook/)
+- [Eric Gilbert's PhD student handbook, University of Michigan](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+- [Mor Naaman's PhD student handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
+- [Makeability Lab handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
+- [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
 
 Below are some guidelines for Master's student supervision:
-- [Jan van Gemert's Guideline for MSc Thesis Supervision, TU Delft](https://jvgemert.github.io/MSCthesis.html)
+- [Jan van Gemert's guideline for MSc thesis supervision, TU Delft](https://jvgemert.github.io/MSCthesis.html)
 
 ## <a name="other"></a>Other Resources
 
-This document is for the MultiX lab. For general documenation for the Faculty of science, use the following link:
-- https://medewerker.uva.nl/en/science/az/a-z.html
+Below are documents related to UvA:
+- [Documenation for the Faculty of Science](https://medewerker.uva.nl/en/science/az/a-z.html)
+- [Events in the Faculty of Science](https://medewerker.uva.nl/en/science/news-events/events/events.html)
 
-For events in the Faculty of Science, use the following link:
-- https://medewerker.uva.nl/en/science/news-events/events/events.html
+Below are some programming resources:
+- [Yen-Chia Hsu's coding cheatsheet](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md)
+- [Yen-Chia Hsu's template for building front-end applications](https://github.com/yenchiah/project-website-template)
+- [Yen-Chia Hsu's template for building back-end applications](https://github.com/yenchiah/project-application-template)
 
-Below is a coding cheatsheet from Yen-Chia Hsu:
-- https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md
-
-Below are coding templates for building front-end and back-end applications:
-- [Template for building websites](https://github.com/yenchiah/project-website-template)
-- [Python Flask back-end template with PostgreSQL](https://github.com/yenchiah/project-application-template)
-
-To understand how to use GitHub features, check [this documentation](https://docs.github.com/en/get-started). GitHub is built around [git](https://git-scm.com). To understand git operation workflows, check [this documentation](https://www.atlassian.com/git/tutorials/comparing-workflows).
+Below are some resources about how to use the [Git tool](https://git-scm.com):
+- [Understand how to use GitHub features](https://docs.github.com/en/get-started)
+- [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows).
