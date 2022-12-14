@@ -43,6 +43,8 @@ For questions specifically about administrative matters, contact Petra Venema fi
 - Want to reserve a meeting room
 - Want to be on a specific institution mailing list
 
+These people's email can be found by typing their names in the search bar after logging into [Microsoft Outlook](https://outlook.office.com/mail/) using the @uva.nl account. 
+
 ## <a name="communication"></a>Communication
 
 We have a group mailing list and a Slack channel for general communication purposes. Below are some examples to use them:
