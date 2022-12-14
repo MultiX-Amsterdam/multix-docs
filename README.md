@@ -2,6 +2,8 @@
 
 This repository hosts the code for the documentaion of the MultiX Lab Amsterdam.
 
+## Webite template
+
 This website is built using [Jekyll] that:
 
 - uses the [Just the Docs] theme;
