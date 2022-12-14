@@ -50,6 +50,9 @@ We also have a shared Microsoft Outlook calendar. In general, you can put events
 - Thesis defense events for lab members
 - Interesting talks that PhD students may be interested
 
+For file sharing, we have a Microsoft Teams channel. Below are some example usage:
+- Share private documents (e.g., pdf or docx files) with someone in the group
+
 ## <a name="lab-website"></a>Lab Website
 
 We have a lab website [https://multix.io](https://multix.io), which is hosted in [this repository](https://github.com/MultiX-Amsterdam/multix-amsterdam.github.io). Please contact Yen-Chia Hsu if you want to add your paper to the lab publication list, or if you want to add news (e.g., your paper is accepted at a conference) to the lab page.
