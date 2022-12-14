@@ -1,8 +1,8 @@
-title: Data Science
-description: Data Science Course for Bachelor Informatiekunde UvA
+title: MultiX
+description: MultiX Lab Website
 theme: just-the-docs
 
-url: https://multix-amsterdam.github.io/data-science-course
+url: https://multix-amsterdam.github.io/docs
 
 aux_links:
-  Repository: https://github.com/MultiX-Amsterdam/data-science-course
+  Repository: https://github.com/MultiX-Amsterdam/docs
