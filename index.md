@@ -3,6 +3,8 @@ title: Home
 layout: home
 ---
 
+Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for the lab documentation. For our official lab website, please visit [https://multix.io](https://multix.io).
+
 ### Table of Content
 - [Onboarding Checklist](#onboarding)
 - [Contact](#contact)
@@ -14,7 +16,7 @@ layout: home
 
 ## <a name="onboarding"></a>Onboarding Checklist
 
-Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! Below is a list of the onboarding procedure:
+Below is a checklist of the onboarding procedure:
 - [ ] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
 - [ ] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
 - [ ] Ask Nanne van Noord to add you to the group mailing list
@@ -55,7 +57,7 @@ For file sharing, we have a Microsoft Teams channel. Below are some example usag
 
 ## <a name="lab-website"></a>Lab Website
 
-We have a lab website [https://multix.io](https://multix.io), which is hosted in [this repository](https://github.com/MultiX-Amsterdam/multix-amsterdam.github.io). Please contact Yen-Chia Hsu if you want to add your paper to the lab publication list, or if you want to add news (e.g., your paper is accepted at a conference) to the lab page.
+Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterdam/multix-amsterdam.github.io). Please contact Yen-Chia Hsu if you want to add your paper to the lab publication list, or if you want to add news (e.g., your paper is accepted at a conference) to the lab page.
 
 ## <a name="lab-meeting"></a>Lab Meeting
 
