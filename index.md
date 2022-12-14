@@ -43,7 +43,7 @@ For questions specifically about administrative matters, contact Petra Venema fi
 
 We have a group mailing list and a Slack channel for general communication purposes. Below are some examples to use them:
 - Share information of events (e.g., interesting talks, PhD events, summer school information, etc)
-- Important announcements 
+- Make important announcements
 
 We also have a shared Microsoft Outlook calendar. In general, you can put events that are related to the lab or for a group of people on the calendar. Below are some example events to put on the calendar:
 - Special lab events (e.g., social gathering, Xmas party)
