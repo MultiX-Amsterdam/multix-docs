@@ -60,14 +60,15 @@ Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for t
 
 ## <a name="phd"></a>For PhD Students
 
-Below are some PhD handbooks:
-- https://agents.inf.ed.ac.uk/phd-handbook/
-- https://medewerker.uva.nl/en/science/phd/phd-candidates.html
-- https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit
-- https://s.tech.cornell.edu/phd-syllabus/
+Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/science/phd/phd-candidates.html). Below are some other PhD handbooks:
+- [Autonomous Agents Research Group HandBook, University of Edinburgh](https://agents.inf.ed.ac.uk/phd-handbook/)
+- [Eric Gilbert's PhD Student Handbook, University of Michigan](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit)
+- [Mor Naaman's PhD Student Handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
+- [Makeability Lab Handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
+- [Jan van Gemert's Research Guidelines, TU Delft](https://jvgemert.github.io/links.html)
 
-Below are documentations for Master's student supervision:
-- https://jvgemert.github.io/MSCthesis.html
+Below are some guidelines for Master's student supervision:
+- [Jan van Gemert's Guideline for MSc Thesis Supervision, TU Delft](https://jvgemert.github.io/MSCthesis.html)
 
 ## <a name="other"></a>Other Resources
 
