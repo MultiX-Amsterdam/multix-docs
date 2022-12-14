@@ -83,4 +83,4 @@ Below are some programming resources:
 
 Below are some resources about how to use the [Git tool](https://git-scm.com):
 - [Understand how to use GitHub features](https://docs.github.com/en/get-started)
-- [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows).
+- [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
