@@ -66,9 +66,9 @@ For sharing upcoming events, we have a shared Microsoft Outlook calendar. In gen
 - Thesis defense events for lab members
 - Interesting talks that PhD students may be interested
 
-For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. This is for lab-related documents only (not personal files). For sharing personal files, it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
+For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. This is for putting and sharing files that are related to the entire lab. For sharing files within a very small number of people (e.g., paper writing), it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
 
-- Share lab-related documents (e.g., pdf or docx files) with the entire group
+- Share lab-related documents (e.g., pdf or docx files) with the entire group, such as administrative matters
 - Share lab-related photos (e.g., those from social events) with others
 
 ## <a name="lab-website"></a>Lab Website
