@@ -57,8 +57,8 @@ We have a group mailing list and a Slack channel for general communication purpo
 
 - Share information of events (e.g., interesting talks, PhD events, summer school information, etc)
 - Make important announcements
-- Request something (e.g., filling a form) from other people
-- Share temporary files with other people (for files that are related to the lab and need to be stored for a long time, please put the files on our Microsoft Teams Channel)
+- Request something (e.g., filling out a form) from other people
+- Share temporary files with other people (for files that are related to the lab and needed to be stored for a long time, please put the files on our Microsoft Teams channel)
 
 For sharing upcoming events, we have a shared Microsoft Outlook calendar. In general, you can put events that are related to the lab or for a group of people on the calendar. Below are some example events to put on the calendar:
 
