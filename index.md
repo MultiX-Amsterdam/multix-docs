@@ -55,16 +55,18 @@ We have a group mailing list and a Slack channel for general communication purpo
 
 - Share information of events (e.g., interesting talks, PhD events, summer school information, etc)
 - Make important announcements
+- Request something (e.g., filling a form) from other people
 
-We also have a shared Microsoft Outlook calendar. In general, you can put events that are related to the lab or for a group of people on the calendar. Below are some example events to put on the calendar:
+For sharing upcoming events, we have a shared Microsoft Outlook calendar. In general, you can put events that are related to the lab or for a group of people on the calendar. Below are some example events to put on the calendar:
 
 - Special lab events (e.g., social gathering, Xmas party)
 - Thesis defense events for lab members
 - Interesting talks that PhD students may be interested
 
-For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. This is just optional and not mandatory. We understand that people share files in different ways. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. For personal files, it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
+For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. This is just optional and not mandatory. We understand that people share files in different ways. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. For sharing personal files, it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
 
 - Share lab-related documents (e.g., pdf or docx files) with the entire group
+- Share lab-related photos (e.g., those from social events) with others
 
 ## <a name="lab-website"></a>Lab Website
 
