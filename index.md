@@ -82,7 +82,7 @@ Below are some guidelines for Master's student supervision:
 ## <a name="other"></a>Other Resources
 
 Below are documents related to UvA:
-- [Documenation for the Faculty of Science](https://medewerker.uva.nl/en/science/az/a-z.html)
+- [Documentation for the Faculty of Science](https://medewerker.uva.nl/en/science/az/a-z.html)
 - [Events in the Faculty of Science](https://medewerker.uva.nl/en/science/news-events/events/events.html)
 
 Below are some programming resources:
