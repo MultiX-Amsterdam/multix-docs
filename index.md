@@ -5,6 +5,8 @@ layout: home
 
 # MultiX Lab General Information
 
+(Last updated: December 15, 2022)
+
 Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for the lab documentation. For our official lab website, please visit [https://multix.io](https://multix.io).
 
 ### Table of Content
