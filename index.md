@@ -111,3 +111,7 @@ Below are some resources about how to use the [Git tool](https://git-scm.com):
 
 - [Understand how to use GitHub features](https://docs.github.com/en/get-started)
 - [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+
+Below are general advice for researchers and students:
+
+- [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
