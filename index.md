@@ -115,3 +115,7 @@ Below are some resources about how to use the [Git tool](https://git-scm.com):
 Below are general advice for researchers and students:
 
 - [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
+
+Other documents:
+
+- [A beginner’s guide to Dutch academia](https://knaw.h5mag.com/beginners-guide/introduction)
