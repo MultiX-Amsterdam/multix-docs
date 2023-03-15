@@ -126,6 +126,7 @@ Below are UvA teaching matters that can be referred to students (such as changin
 - [Course Registration (by study program)](https://student.uva.nl/en/topics/course-registration)
 - [Studying with a disability, dyslexia or chronic illness](https://student.uva.nl/en/topics/studying-with-a-disability-dyslexia-or-chronic-illness)
 - [Mental health](https://student.uva.nl/en/topics/mental-health)
+- [Thesis and graduation project](https://student.uva.nl/en/topics/thesis-and-graduation-project)
 
 Below is an example syllabus (which can be used as a template):
 
