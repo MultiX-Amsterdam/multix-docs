@@ -78,7 +78,7 @@ Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterd
 
 ## <a name="lab-meeting"></a>Lab Meeting
 
-Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for the meeting information (e.g., the virtural meeting link). If you want to join the meeting in person, the room number is L3.33 in LAB42.
+Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for the meeting information (e.g., the virtural meeting link). If you want to join the meeting in person, check the room number on the Slack channel. Usually the meeting room is at the 3rd floor in LAB42.
 
 ## <a name="phd"></a>For PhD Students
 
@@ -89,6 +89,7 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 - [Mor Naaman's PhD student handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
 - [Makeability Lab handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 - [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
+- [Advice for researchers and students by Michael Ernst, University of Washington](https://homes.cs.washington.edu/~mernst/advice/)
 
 Below are some guidelines for Master's student supervision:
 
