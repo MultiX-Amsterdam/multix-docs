@@ -18,6 +18,8 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Lab Meeting](#lab-meeting)
 - [Advice for PhD Students Specifically](#phd)
 - [General Advice for Researchers](#researchers)
+- [Diversity, Equity, and Inclusion](#dei)
+- [Teaching](#teaching)
 - [Other Resources](#other)
 
 ## <a name="onboarding"></a>Onboarding Checklist
@@ -97,13 +99,37 @@ Below is a very nice guide for researchers in the Netherlands to understand the 
 
 - [A beginner’s guide to Dutch academia](https://knaw.h5mag.com/beginners-guide/introduction)
 
-Below are general advice for researchers, including students and faculty members::
+Below are general advice for researchers, including students and faculty members:
 
 - [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
 
 Below are some guidelines for Master's student supervision:
 
 - [Jan van Gemert's guideline for MSc thesis supervision, TU Delft](https://jvgemert.github.io/MSCthesis.html)
+
+## <a name="dei"></a>Diversity, Equity, and Inclusion
+
+Below are UvA documents and training courses about diversity, equity, and inclusion:
+
+- [Diversity policy of the University of Amsterdam](https://www.uva.nl/en/about-the-uva/about-the-university/diversity-and-inclusion/policy-framework/policy-framework.html)
+- [Mentoring programmes and training courses](https://www.uva.nl/en/about-the-uva/about-the-university/diversity-and-inclusion/mentoring-and-training/mentoring-and-training.html#Employees)
+
+## <a name="teaching"></a>Teaching
+
+Below are teaching related rules specifically for UvA:
+
+- [Teaching and Examination Regulations](https://www.uva.nl/en/about-the-uva/policy-and-regulations/rules-and-regulations/teaching/teaching.html#Model-regulations)
+- [Teaching and Examination Regulations (by study program)](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer)
+
+Below are UvA teaching matters that can be referred to students (such as changing study groups or requesting special accomedations):
+
+- [Course Registration (by study program)](https://student.uva.nl/en/topics/course-registration)
+- [Studying with a disability, dyslexia or chronic illness](https://student.uva.nl/en/topics/studying-with-a-disability-dyslexia-or-chronic-illness)
+- [Mental health](https://student.uva.nl/en/topics/mental-health)
+
+Below is an example syllabus (which can be used as a template):
+
+- [Syllabus for the Data Science course](https://multix.io/data-science-book-uva/docs/syllabus.html)
 
 ## <a name="other"></a>Other Resources
 
