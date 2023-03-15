@@ -89,7 +89,6 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 - [Mor Naaman's PhD student handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
 - [Makeability Lab handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 - [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
-- [Advice for researchers and students by Michael Ernst, University of Washington](https://homes.cs.washington.edu/~mernst/advice/)
 
 Below are some guidelines for Master's student supervision:
 
