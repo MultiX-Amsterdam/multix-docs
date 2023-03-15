@@ -16,7 +16,8 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Communication](#communication)
 - [Lab Website](#lab-website)
 - [Lab Meeting](#lab-meeting)
-- [For PhD Students](#phd)
+- [Advice for PhD Students Specifically](#phd)
+- [General Advice for Researchers](#researchers)
 - [Other Resources](#other)
 
 ## <a name="onboarding"></a>Onboarding Checklist
@@ -80,7 +81,7 @@ Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterd
 
 Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for the meeting information (e.g., the virtural meeting link). If you want to join the meeting in person, check the room number on the Slack channel. Usually the meeting room is at the 3rd floor in LAB42.
 
-## <a name="phd"></a>For PhD Students
+## <a name="phd"></a>Advice for PhD Students Specifically
 
 Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/science/phd/phd-candidates.html). Below are some other PhD handbooks:
 
@@ -89,6 +90,16 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 - [Mor Naaman's PhD student handbook, Cornell Tech](https://s.tech.cornell.edu/phd-syllabus/)
 - [Makeability Lab handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 - [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
+
+## <a name="researchers"></a>General Advice for Researchers
+
+Below is a very nice guide for researchers in the Netherlands to understand the academic environment, including funding schemes:
+
+- [A beginner’s guide to Dutch academia](https://knaw.h5mag.com/beginners-guide/introduction)
+
+Below are general advice for researchers, including students and faculty members::
+
+- [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
 
 Below are some guidelines for Master's student supervision:
 
@@ -111,11 +122,3 @@ Below are some resources about how to use the [Git tool](https://git-scm.com):
 
 - [Understand how to use GitHub features](https://docs.github.com/en/get-started)
 - [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-
-Below are general advice for researchers and students:
-
-- [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
-
-Other documents:
-
-- [A beginner’s guide to Dutch academia](https://knaw.h5mag.com/beginners-guide/introduction)
