@@ -14,6 +14,7 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Onboarding Checklist](#onboarding)
 - [Contact](#contact)
 - [Communication](#communication)
+- [Lab Files](#lab-files)
 - [Lab Website](#lab-website)
 - [Lab Meeting](#lab-meeting)
 - [Advice for PhD Students Specifically](#phd)
@@ -69,11 +70,17 @@ For sharing upcoming events, we have a shared Microsoft Outlook calendar. In gen
 - Thesis defense events for lab members
 - Interesting talks that PhD students may be interested
 
+## <a name="lab-files"></a>Lab Files
+
 For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. This is for putting and sharing files that are related to the entire lab. For sharing files within a very small number of people (e.g., paper writing), it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
 
 - Share documents (e.g., pdf or docx files) with the entire group, such as administrative matters
 - Share photos (e.g., those from social events) with the entire group
 - Archive project related documents, such as research ethics reviewing documents or meeting notes
+
+For sharing private files or data that may require version control, we have a [GitLab](https://uva-hva.gitlab.host/multix-amsterdam). Ask Yen-Chia Hsu if you want to have access. Below are some examples of usage:
+
+- Archive teaching materials for a course
 
 ## <a name="lab-website"></a>Lab Website
 
