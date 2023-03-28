@@ -42,18 +42,15 @@ In the following checklist, we refer to these emails using their names (i.e., th
 ## <a name="long-before"></a>Long Before the Exam
 
 Communication:
-- [x] Make an announcement on Canvas to explain what will be covered in the exam (e.g., the range of course materials), the type of questions (e.g., multiple-choice questions, open-ended questions, coding questions), and what software tools that they will (or can) use during the exam (e.g., ANS, Jupyter Notebook).
+- [x] Make an announcement on Canvas to explain what will be covered in the exam (e.g., the range of course materials), the type of questions (e.g., multiple-choice questions, open-ended questions, coding questions), and what software tools that students will/can use during the exam (e.g., ANS, Jupyter Notebook).
 - [x] If there are multiple partial exams, and the second (or any follow-up) exam will be harder than the first one, make an announcement on Canvas to remind students that the exam will be more difficult than the previous one.
 - [x] If there are multiple-choice questions and [guess correction](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction) will be enabled, communicate with the students about this using a Canvas announcement.
 - [x] Make an announcement on Canvas to emphasize that there is no Internet access during the exam.
 - [x] Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). Typically, the exam desk will ask if hiring invigilators is necessary via email.
 
-Exam materials:
-- [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
-
 Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
-- [x] When some students have conflicts in scheduling exams, one solution is to have the student take two (or multiple) exams together in one location. In this situation, ensure that the digital test office has communicated this well with the exam desk to allocate a desk for the student to stay longer. There is a chance that the people on site will be surprised by this due to the lack of communication.
+- [x] If a student has conflicts in scheduling exams, one solution is to have the student take two (or multiple) exams together in one location. In this situation, ensure that the digital test office has communicated this well with the exam desk to allocate a desk for the student to stay longer. There is a chance that the people on site does not know the situation due to a lack of communication.
 
 ## <a name="just-before"></a>Just Before the Exam
 
@@ -63,9 +60,12 @@ Communication:
   - They are allowed to enter the exam room up to 30 minutes past the exam starting time.
   - They are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
 
-Exam materials
-- [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS.
-- [x] Set a password on ANS so that students can start at the same time. The password setting can be found on Settings -> Accessibility -> Access.
+Exam materials:
+- [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
+- [x] Ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
+- [x] Set a password on ANS so that students can start at the same time. The password setting can be found on `Settings -> Accessibility -> Access`.
+- [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * points / total`. Guess correction is recommended to be enabled. Typically, set the lowest mark limit to 1 (which is the base grade), and set the highest mark limit to 10. Also, set the rounding to two decimals. 
+- [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS and check if the digital exam setting is correct.
 
 Sanity checks:
 - [x] Check if the time slots that the exam team scheduled for the exam matches the listed exam time on [datanose](https://datanose.nl).
@@ -74,7 +74,7 @@ Sanity checks:
 - [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 
 Other actions:  
-- [x] The exam desk will provide the attendance list by email upon request (usually, they will ask). Print 3 copies of the attendance list and bring them to the exam location. We need to give them to the invigilators.
+- [x] The exam desk will provide the attendance list by email upon request (usually, the exam desk will initialize the conversation). Print 3 copies of the attendance list and bring them to the exam location. We need to give them to the invigilators.
 
 Optional:
 - [x] If this is the final exam, get the course evaluation form from the education desk. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
@@ -95,7 +95,7 @@ Other actions:
 - [x] Give students the password on ANS right before the exam starts using the microphone in the exam room.
 
 Problem handling:
-- [x] If a student should have extra time but is not set correctly, email the digital test office and ask them for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to Taking -> Timeslots to select a time slot and add a student by name or student ID number).
+- [x] If a student should have extra time but is not set correctly, email the digital test office and ask them for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to `Taking -> Timeslots` to select a time slot and add a student by name or student ID number).
 - [x] If a student cannot log in to the exam computer, ask the staff members on site to help the student log in to their computer.
 - [x] For any other problems that we are not sure how to solve, email the digital test office and the exam desk with an "urgent" tag in the email title. 
 - [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes).
@@ -112,7 +112,7 @@ Grading related:
 - [x] Within 20 working days, release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas.
 
 There are several ways for students to inspect their grades, and some examples are listed below:
-- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting Settings -> Publication -> Add timeslot. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
+- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Also remember to set the access password. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time
 
 ## <a name="other"></a>Other Notes
