@@ -13,7 +13,7 @@ This document is created by Yen-Chia Hsu when running the data science course fo
 A digital exam means that students take the exam using software tools.
 The exam is typically conducted in a physical room with computers.
 This document explains what to do before, during, and after digital exams.
-This document also assumes that the digital exam uses [ANS](http://ans.app/)
+This document also assumes that the digital exam uses the [ANS](http://ans.app/) tool.
 The target audience for this document include course coordinators and teaching staff members.
 
 ## Who to Contact
@@ -25,16 +25,20 @@ Below are two emails that are important in the communication of exam settings:
 Generally speaking, the exam desk deals with matters related to the physical room (e.g., computer settings, invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS).
 In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
 
+## Exam Planning
+
+- [x] Communicate with the exam desk about any required setting in the physical room. Special requests need to be done a couple of months ahead, for example, using a specific software during the exam. Usually, the exam desk will email the course coordinator for confirmation.
+
 ## Long Before the Exam Date
 
-For communications:
+Communication:
 - [x] Make an announcement on Canvas to explain what will be covered in the exam (e.g., the range of course materials), the type of questions (e.g., multiple-choice questions, open-ended questions, coding questions), and what software tools that they will (or can) use during the exam (e.g., ANS, Jupyter Notebook).
 - [x] If there are multiple partial exams, and the second (or any follow-up) exam will be harder than the first one, make an announcement on Canvas to remind students that the exam will be more difficult than the previous one.
 - [x] If there are multiple-choice questions and [guess correction](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction) will be enabled, communicate with the students about this using a Canvas announcement.
 - [x] Make an announcement on Canvas to emphasize that there is no Internet access during the exam.
 - [x] Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). Typically, the exam desk will ask if hiring invigilators is necessary via email.
 
-For exam materials:
+Exam materials:
 - [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
 
 Optional:
@@ -43,23 +47,24 @@ Optional:
 
 ## Just Before the Exam
 
-For communication:
-- [x] Communicate with the exam desk about any required setting in the physical room. Special requests need to be done a couple of months ahead, for example, using a specific software during the exam. Usually, the exam desk will email the course coordinator for confirmation.
+Communication:
 - [x] Make an announcement on Canvas to remind students of the following information:
   - They must bring a valid ID (student ID card or other government-issued ID) to the exam location.
   - They are allowed to enter the exam room up to 30 minutes past the exam starting time.
   - They are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
 
-For exam materials, software, and other information:
+Exam materials
 - [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS.
 - [x] Set a password on ANS so that students can start at the same time. The password setting can be found on Settings -> Accessibility -> Access.
-- [x] The exam desk will provide the attendance list by email upon request (usually, they will ask). Print 3 copies of the attendance list and bring them to the exam location. We need to give them to the invigilators.
-- [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 
-For sanity checks:
+Sanity checks:
 - [x] Check if the time slots that the exam team scheduled for the exam matches the listed exam time on [datanose](https://datanose.nl).
 - [x] Check the list of students with extra exam time, which will be provided by the exam desk by email. Then, make sure that on the attendance list, their name has a star-shaped symbol (\*) after it so that the invigilators know that these students have extra time during the exam. If there are missing star-shaped symbols, add them manually to the attendance list.
-- [ ] The digital test office will schedule several time slots on ANS. Typically there are two of them. One for the standard exam schedule. And another one for students with extended time. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
+- [x] The digital test office will schedule several time slots on ANS. Typically there are two of them. One for the standard exam schedule. And another one for students with extended time. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
+- [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
+
+Other actions:  
+- [x] The exam desk will provide the attendance list by email upon request (usually, they will ask). Print 3 copies of the attendance list and bring them to the exam location. We need to give them to the invigilators.
 
 Optional:
 - [x] If this is the final exam, get the course evaluation form from the education desk. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
@@ -67,7 +72,9 @@ Optional:
 
 ## During the Exam
 
-Be there at the exam location **at least 45 minutes early** before the exam starting time. Communicate the following to the invigilators:
+Be there at the exam location **at least 45 minutes early** before the exam starting time.
+
+Communicate the following to the invigilators:
 - [x] Have all the students with extra time sitting in the row that is as far away from the entrance as possible to prevent them from being disturbed.
 - [x] Explain when and how to check student ID. Typically, having the student ID card is sufficient to check if the ID number matches the one on the attendance list. It is better if students bring government-issued IDs.
 - [x] Give the student attendance list, and communicate that students do not need to sign on the sheet. Ask invigilators to just put a checkmark on the attendance list after checking the ID. In this way, we minimize disturbance to students.
@@ -92,9 +99,11 @@ Optional:
 
 Grading related:
 - [x] First [export the grades from ANS](https://support.ans.app/hc/en-us/articles/360036410294-Export-results) into a CSV file, and then [import the grades to Canvas](https://canvas.uva.nl/courses/169/pages/using-the-gradebook?module_item_id=1237607#Import_Grades).
-- [x] Within 20 working days, release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas. There are several ways to do grade inspection, and some examples are listed below.
-  - Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting Settings -> Publication -> Add timeslot. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
-  - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time
+- [x] Within 20 working days, release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas.
+
+There are several ways for students to inspect their grades, and some examples are listed below:
+- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting Settings -> Publication -> Add timeslot. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
+- Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time
 
 ## Other Notes
 
