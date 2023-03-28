@@ -100,10 +100,10 @@ Problem handling:
 - [x] For any other problems that we are not sure how to solve, email the digital test office and the exam desk with an "urgent" tag in the email title. 
 - [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes).
 - [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, email the digital test office to ask them to resolve the problem.
-- [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator to report the case and ask for approval.
+- [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator/director to report the case and ask for approval.
 
 Optional:
-- [x] If this is the final exam, distribute the course evaluation form during the exam to students, for example, by placing the form at each desk in the exam room.
+- [x] If this is the final exam, distribute the course evaluation form during the exam to students, for example, by placing the form at each desk in the exam room before the exam starts.
 
 ## <a name="after"></a>After the Exam
 
