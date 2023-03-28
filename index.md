@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 
 # MultiX Lab General Information
@@ -27,16 +28,16 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 
 Below is a checklist of the onboarding procedure:
 
-- [ ] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
-- [ ] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
-- [ ] Ask Dennis Koelma to add you to the group mailing list
-- [ ] Ask Nanne van Noord to add you to our Microsoft Outlook group calendar
-- [ ] Ask Nanne van Noord to add you to our Slack channel
-- [ ] Ask Yen-Chia Hsu to add you to our team channel on Microsoft Teams
-- [ ] Register an account on [GitHub](https://github.com/)
-- [ ] Ask Yen-Chia Hsu to add you to our GitHub organization
-- [ ] Contact Yen-Chia Hsu to put your photo and information on [our lab website](https://multix.io/)
-- [ ] Read the rest of this document
+- [x] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
+- [x] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
+- [x] Ask Dennis Koelma to add you to the group mailing list
+- [x] Ask Nanne van Noord to add you to our Microsoft Outlook group calendar
+- [x] Ask Nanne van Noord to add you to our Slack channel
+- [x] Ask Yen-Chia Hsu to add you to our team channel on Microsoft Teams
+- [x] Register an account on [GitHub](https://github.com/)
+- [x] Ask Yen-Chia Hsu to add you to our GitHub organization
+- [x] Contact Yen-Chia Hsu to put your photo and information on [our lab website](https://multix.io/)
+- [x] Read the rest of this document
 
 ## <a name="contact"></a>Contact
 
