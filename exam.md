@@ -8,13 +8,15 @@ nav_order: 1
 
 (Last updated: March 28, 2023)
 
-This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program.
+This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde).
 
 A digital exam means that students take the exam using software tools.
 The exam is typically conducted in a physical room with computers.
 This document explains what to do before, during, and after digital exams.
 This document also assumes that the digital exam uses the [ANS](http://ans.app/) tool.
 The target audience for this document include course coordinators and teaching staff members.
+
+**Important: this document is created in the context of the Informatics Institute under the Bachelor Information Science program (Informatiekunde). The situation may be different if you teach in another faculty or in another program.**
 
 ### Table of Content
 
@@ -77,7 +79,7 @@ Other actions:
 - [x] The exam desk will provide the attendance list by email upon request (usually, the exam desk will initialize the conversation). Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators.
 
 Optional:
-- [x] If this is the final exam, get the course evaluation form from the education desk. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
+- [x] If this is the final exam, get the course evaluation form from the education desk at Science Park. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
 - [x] Bring the course evaluation form to the exam location with some extra pens.
 
 ## <a name="during"></a>During the Exam
@@ -114,6 +116,9 @@ Grading related:
 There are several ways for students to inspect their grades, and some examples are listed below:
 - Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Also remember to set the access password. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time.
+
+Optional:
+- [x] Return the course evaluation forms to the education desk at Science Park.
 
 ## <a name="other"></a>Other Notes
 
