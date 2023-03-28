@@ -16,7 +16,17 @@ This document explains what to do before, during, and after digital exams.
 This document also assumes that the digital exam uses the [ANS](http://ans.app/) tool.
 The target audience for this document include course coordinators and teaching staff members.
 
-## Who to Contact
+### Table of Content
+
+- [Who to Contact](#contact)
+- [Exam Planning](#planning)
+- [Long Before the Exam](#long-before)
+- [Just Before the Exam](#just-before)
+- [During the Exam](#during)
+- [After the Exam](#after)
+- [Other Notes](#other)
+
+## <a name="contact"></a>Who to Contact
 
 Below are two emails that are important in the communication of exam settings:
 - The exam desk <tentamenbureau-fnwi@uva.nl>
@@ -25,11 +35,11 @@ Below are two emails that are important in the communication of exam settings:
 Generally speaking, the exam desk deals with matters related to the physical room (e.g., computer settings, invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS).
 In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
 
-## Exam Planning
+## <a name="planning"></a>Exam Planning
 
 - [x] Communicate with the exam desk about any required setting in the physical room. Special requests need to be done a couple of months ahead, for example, using a specific software during the exam. Usually, the exam desk will email the course coordinator for confirmation.
 
-## Long Before the Exam Date
+## <a name="long-before"></a>Long Before the Exam
 
 Communication:
 - [x] Make an announcement on Canvas to explain what will be covered in the exam (e.g., the range of course materials), the type of questions (e.g., multiple-choice questions, open-ended questions, coding questions), and what software tools that they will (or can) use during the exam (e.g., ANS, Jupyter Notebook).
@@ -45,7 +55,7 @@ Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
 - [x] When some students have conflicts in scheduling exams, one solution is to have the student take two (or multiple) exams together in one location. In this situation, ensure that the digital test office has communicated this well with the exam desk to allocate a desk for the student to stay longer. There is a chance that the people on site will be surprised by this due to the lack of communication.
 
-## Just Before the Exam
+## <a name="just-before"></a>Just Before the Exam
 
 Communication:
 - [x] Make an announcement on Canvas to remind students of the following information:
@@ -70,7 +80,7 @@ Optional:
 - [x] If this is the final exam, get the course evaluation form from the education desk. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
 - [x] Bring the course evaluation form to the exam location with some extra pens.
 
-## During the Exam
+## <a name="during"></a>During the Exam
 
 Be there at the exam location **at least 45 minutes early** before the exam starting time.
 
@@ -95,7 +105,7 @@ Problem handling:
 Optional:
 - [x] If this is the final exam, distribute the course evaluation form during the exam to students, for example, by placing the form at each desk in the exam room.
 
-## After the Exam
+## <a name="after"></a>After the Exam
 
 Grading related:
 - [x] First [export the grades from ANS](https://support.ans.app/hc/en-us/articles/360036410294-Export-results) into a CSV file, and then [import the grades to Canvas](https://canvas.uva.nl/courses/169/pages/using-the-gradebook?module_item_id=1237607#Import_Grades).
@@ -105,6 +115,6 @@ There are several ways for students to inspect their grades, and some examples a
 - Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting Settings -> Publication -> Add timeslot. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time
 
-## Other Notes
+## <a name="other"></a>Other Notes
 
 When in doubt, check the [UvA Teaching and Examination Regulations](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer) or ask the program director/coordinator.
