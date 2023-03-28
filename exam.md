@@ -74,7 +74,7 @@ Sanity checks:
 - [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 
 Other actions:  
-- [x] The exam desk will provide the attendance list by email upon request (usually, the exam desk will initialize the conversation). Print 3 copies of the attendance list and bring them to the exam location. We need to give them to the invigilators.
+- [x] The exam desk will provide the attendance list by email upon request (usually, the exam desk will initialize the conversation). Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators.
 
 Optional:
 - [x] If this is the final exam, get the course evaluation form from the education desk. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
