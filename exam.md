@@ -10,7 +10,7 @@ nav_order: 1
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program.
 
-A digital exam means that students take the exam using some software on the computer.
+A digital exam means that students take the exam using software tools.
 The exam is typically conducted in a physical room with computers.
 This document explains what to do before, during, and after digital exams.
 This document also assumes that the digital exam uses [ANS](http://ans.app/)
