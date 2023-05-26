@@ -48,7 +48,7 @@ Communication:
 - [x] If there are multiple partial exams, and the second (or any follow-up) exam will be harder than the first one, make an announcement on Canvas to remind students that the exam will be more difficult than the previous one.
 - [x] If there are multiple-choice questions and [guess correction](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction) will be enabled, communicate with the students about this using a Canvas announcement.
 - [x] Make an announcement on Canvas to emphasize that there is no Internet access during the exam.
-- [x] Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). Typically, the exam desk will ask if hiring invigilators is necessary via email.
+- [x] Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). Typically, the exam desk will ask if hiring invigilators is necessary via email. If it is a resit, it looks like the exam desk will not ask automatically, so we need to request invigilators by email.
 
 Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
