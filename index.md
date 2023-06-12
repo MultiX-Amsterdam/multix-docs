@@ -101,6 +101,7 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 - [Makeability Lab handbook, University of Washington](https://docs.google.com/document/d/1YiiDsfpiolpXjUTj8xWrQwQQUzqrfqT9bocOpaYDrtI/edit)
 - [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
 - [Advice and guidebook for thriving and surviving Ph.D. and graduate school, Polo Club of Data Science, Georgia Tech](https://github.com/poloclub/awesome-grad-school)
+- [A Survival Guide to a PhD, Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
 
 ## <a name="researchers"></a>General Advice for Researchers
 
