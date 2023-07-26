@@ -6,7 +6,7 @@ nav_order: 0
 
 # MultiX Lab General Information
 
-(Last updated: March 15, 2023)
+(Last updated: July 26, 2023)
 
 Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for the lab documentation. For our official lab website, please visit [https://multix.io](https://multix.io).
 
@@ -97,7 +97,7 @@ We have one regular lab meeting every week. The meeting frequency is reduced dur
 
 From April 2023, it is now possible to sefl-reserve meeting rooms. To do this, you need to first create a [Microsoft Outlook](https://outlook.office.com/mail/) calendar event using your @uva.nl account. Then, you can specify the room that you want to reserve or use the room finder by clicking on the "Search for a room or location" box on the user interface when creating the calendar event.
 
-Below is a table showing the room that people in IVI (i.e., the Informatics Institute) can reserve, as well as the capacity (number of people). To search for the room, type the text in the "Room" column in the table below to the location search box on the user interface when creating the calendar event. The "Lab42" building means the address "Science Park 900", and the "904" building means the address "Science Park 904".
+Below is a table showing the room that people in IVI (i.e., the Informatics Institute) can reserve, as well as the capacity (number of people). To search for the room, enter (or copy/paste) the text in the "Room" column in the table below to the location search box on the user interface when creating the calendar event. The "Lab42" building means the address "Science Park 900", and the "904" building means the address "Science Park 904".
 
 | Building | Room | Capacity |
 |----------|----------|----------|
