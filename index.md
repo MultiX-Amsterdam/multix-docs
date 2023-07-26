@@ -18,6 +18,7 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Lab Files](#lab-files)
 - [Lab Website](#lab-website)
 - [Lab Meeting](#lab-meeting)
+- [Reserve a Meeting Room](#reserve-room)
 - [Advice for PhD Students Specifically](#phd)
 - [General Advice for Researchers](#researchers)
 - [Diversity, Equity, and Inclusion](#dei)
@@ -49,12 +50,13 @@ For questions specifically about ICT, contact Dennis Koelma. Below are some exam
 - Need to order a new computer
 - Need access to some specific software
 
-For questions specifically about administrative matters, contact Petra Venema first. If she is out of office, contact the secretary office using their group email. Below are some examples:
+For questions specifically about administrative matters, contact the IVI secretary office **using their group email** (secr-ii-science@uva.nl). Below are some examples:
 
 - Want to reserve a meeting room
 - Want to be on a specific institution mailing list
+- Need something specific for your workplace
 
-These people's email can be found by typing their names in the search bar after logging into [Microsoft Outlook](https://outlook.office.com/mail/) using the @uva.nl account. 
+These people's email can be found by typing their names in the search bar after logging into [Microsoft Outlook](https://outlook.office.com/mail/) using the @uva.nl account.
 
 ## <a name="communication"></a>Communication
 
@@ -89,7 +91,48 @@ Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterd
 
 ## <a name="lab-meeting"></a>Lab Meeting
 
-Our regular meeting time is Wednesday 14:00-15:00. Check our Slack channel for the meeting information (e.g., the virtural meeting link). If you want to join the meeting in person, check the room number on the Slack channel. Usually the meeting room is at the 3rd floor in LAB42.
+We have one regular lab meeting every week. The meeting frequency is reduced during summertime. Check our Slack channel for the meeting information (e.g., meeting time, meeting location, the virtual meeting link, etc). If you want to join the meeting in person, check the room number on the Slack channel. Usually, the meeting room is on the 3rd floor in LAB42.
+
+## <a name="reserve-room"></a>Find a Meeting Room
+
+From April 2023, it is now possible to sefl-reserve meeting rooms. To do this, you need to first create a [Microsoft Outlook](https://outlook.office.com/mail/) calendar event using your @uva.nl account. Then, you can specify the room that you want to reserve or use the room finder by clicking on the "Search for a room or location" box on the user interface when creating the calendar event.
+
+Below is a table showing the room that people in IVI (i.e., the Informatics Institute) can reserve, as well as the capacity (number of people). To search for the room, type the text in the "Room" column in the table below to the location search box on the user interface when creating the calendar event. The "Lab42" building means the address "Science Park 900", and the "904" building means the address "Science Park 904".
+
+| Building | Room | Capacity |
+|----------|----------|----------|
+| Lab42 | ASP L3.03 | 6 |
+| Lab42 | ASP L3.04 | 6 |
+| Lab42 | ASP L3.05 | 6 |
+| Lab42 | ASP L3.08 | 8 |
+| Lab42 | ASP L3.11 | 6 |
+| Lab42 | ASP L3.26 | 6 |
+| Lab42 | ASP L3.33 | 25 |
+| Lab42 | ASP L3.36 | 50 |
+| 904 | ASP 107 F1.15 | 24 |
+| 904 | ASP 107 F3.20 | 18 |
+| 904 | ASP B1.25 | 24 |
+| 904 | ASP B1.49C | 16 |
+| 904 | ASP C3.163 | 21 |
+| 904 | ASP C4.174 | 30 |
+
+> Note: If a meeting is canceled, please make sure that you also cancel the meeting event on the calendar to make the room available to other people.
+
+Besides the above-listed rooms that require reservations, you can also use the following rooms without booking. Just walk in to use the room if no one is using it. You may need to use your UvA badge to unlock the room. Typically these are small meeting rooms for at most 6 people.
+
+- Lab42 L4.02
+- Lab42 L4.09
+- Lab42 L4.26
+- Lab42 L4.48
+- Lab42 L4.51
+- Lab42 L5.18
+- Lab42 L5.44
+- Lab42 L5.49
+- Lab42 L5.54
+- Lab42 L5.64
+- Lab42 L6.05
+
+When in doubt, contact the IVI secretary office by email.
 
 ## <a name="phd"></a>Advice for PhD Students Specifically
 
