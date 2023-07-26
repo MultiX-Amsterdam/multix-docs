@@ -56,6 +56,8 @@ For questions specifically about administrative matters, contact the IVI secreta
 - Want to be on a specific institution mailing list
 - Need something specific for your workplace
 
+For administrative matters regarding PhD students, you may need to fill out some forms and send the forms to the secretary office (or even need to get a signature from Marcel). You can find the [templates of the forms](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Af%3A%2Fr%2Fsites%2FFNWI_ORG_IVI_PhD%2FShared%2520Documents%2FGeneral%2FTemplates%3Fcsf%3D1%26web%3D1%26e%3D19XEjm&data=05%7C01%7Cm.worring%40uva.nl%7C90c306f345a648a0b80708db8cc857ab%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638258564330142810%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pT3uHeUrPiWPg4cjsm2sHII6tDCQYmQatHZCamQtMAw%3D&reserved=0) in the "IVI PhD" Microsoft Teams group. Examples of these templates include coverage of conference costs, enrollment certification, proof of contract extension, etc.
+
 These people's email can be found by typing their names in the search bar after logging into [Microsoft Outlook](https://outlook.office.com/mail/) using the @uva.nl account.
 
 ## <a name="communication"></a>Communication
