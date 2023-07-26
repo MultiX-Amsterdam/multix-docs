@@ -18,7 +18,7 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Lab Files](#lab-files)
 - [Lab Website](#lab-website)
 - [Lab Meeting](#lab-meeting)
-- [Reserve a Meeting Room](#reserve-room)
+- [Find a Meeting Room](#reserve-room)
 - [Advice for PhD Students Specifically](#phd)
 - [General Advice for Researchers](#researchers)
 - [Diversity, Equity, and Inclusion](#dei)
