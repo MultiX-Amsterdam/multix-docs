@@ -116,7 +116,7 @@ Below is a table showing the room that people in IVI (i.e., the Informatics Inst
 | 904 | ASP C3.163 | 21 |
 | 904 | ASP C4.174 | 30 |
 
-> Note: If a meeting is canceled, please make sure that you also cancel the meeting event on the calendar to make the room available to other people.
+> **Note: If a meeting is canceled, please make sure that you also cancel the meeting event on the calendar to make the room available to other people.**
 
 Besides the above-listed rooms that require reservations, you can also use the following rooms without booking. Just walk in to use the room if no one is using it. You may need to use your UvA badge to unlock the room. Typically these are small meeting rooms for at most 6 people.
 
