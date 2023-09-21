@@ -52,9 +52,9 @@ Starting September 2023, the Informatics Institute has general emails as contact
 Below are general principles.
 For details about who to contact for what kind of logistic matters, check the [menu of services](https://eur04.safelinks.protection.outlook.com/ap/b-59584e83/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Ab%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FGeneral%2FMenu%2520of%2520Services.pdf%3Fcsf%3D1%26web%3D1%26e%3D42kW1Q&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983439935%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yBKVz8j0H6trGFXz%2Bfam1jxYMj8%2BKcLq0NsemxucT1s%3D&reserved=0).
 
-- The secretary's office (secr-ii-science@uva.nl) takes care of general questions and should be the first point of contact when it is unclear whom to contact for an issue.
-- The staffing office (staffing-ii-science@uva.nl) takes care of issues related to hiring people.
-- The finance office (finance-ii-science@uva.nl) takes care of money matters. For details, check the menu of services.
+- The secretary's office (<secr-ii-science@uva.nl>) takes care of general questions and should be the first point of contact when it is unclear whom to contact for an issue.
+- The staffing office (<staffing-ii-science@uva.nl>) takes care of issues related to hiring people.
+- The finance office (<finance-ii-science@uva.nl>) takes care of money matters. For details, check the menu of services.
 
 If you have questions about administrative matters (e.g., ICT), check the following UvA internel resources:
 
