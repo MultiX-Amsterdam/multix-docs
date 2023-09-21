@@ -24,7 +24,7 @@ This is a live document that will periodically be updated.
 
 ## <a name="procedure"></a>How to get the budget approved by UvA?
 
-One important step in preparing the proposal is to get the budget approved by the project office (<projecten-science@uva.nl>).
+One important step in preparing the proposal is to get the budget approved by the project office (search "projecten-science" in UvA's Microsoft Outlook App for the email).
 The project office can help you calculate the budget for hiring a person.
 If you need the office to do so, make sure to tell the project office about what kind of person you are looking for, such as "a student assistant who is currently studying in our institute's master's program."
 
@@ -53,7 +53,7 @@ For company calls, tell the project office that it is a company call, and the of
 
 For larger grant proposals, typically, people aim to hire PhD students or Postdocs.
 The salary rate for these two types of positions can be calculated using the budget form provided by NWO.
-If you want to do other types of hiring, consult the project office (projecten-science@uva.nl).
+If you want to do other types of hiring, consult the project office (search "projecten-science" in UvA's Microsoft Outlook App for the email).
 Typically, the budget form is in the list of the materials that you need to prepare.
 
 One thing to keep in mind is that, in the Netherlands, you need a full 4-year budget to hire a PhD.

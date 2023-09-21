@@ -31,8 +31,8 @@ The target audience for this document include course coordinators and teaching s
 ## <a name="contact"></a>Who to Contact
 
 Below are two emails that are important in the communication of exam settings:
-- The exam desk <tentamenbureau-fnwi@uva.nl>
-- The digital test office <digitaletoets-fnwi@uva.nl>
+- The exam desk (search "tentamenbureau-fnwi" in UvA's Microsoft Outlook App for the email)
+- The digital test office (search "digitaletoets-fnwi" in UvA's Microsoft Outlook App for the email)
 
 Generally speaking, the exam desk deals with matters related to the physical room (e.g., computer settings, invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS).
 In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
