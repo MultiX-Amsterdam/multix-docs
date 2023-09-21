@@ -6,11 +6,11 @@ nav_order: 1
 
 # Grant Proposal Q&A
 
-(Last updated: September 20, 2023)
+(Last updated: September 21, 2023)
 
 This document is created by Yen-Chia Hsu when preparing several grant proposals.
 This is also a live document that will periodically be updated.
-If you find errors in the information, please email Yen-Chia <y.c.hsu@uva.nl>, and he will greatly appreciate it.
+If you find errors in the information, please email Yen-Chia (y.c.hsu@uva.nl), and he will greatly appreciate it.
 
 **Important: this document is created in the context of the Informatics Institute at the University of Amsterdam. The situation may be different if you are in another faculty.**
 

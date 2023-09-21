@@ -6,7 +6,7 @@ nav_order: 1
 
 # Resources
 
-(Last updated: September 20, 2023)
+(Last updated: September 21, 2023)
 
 This document curates various resources, ranging from advice to PhD students (and researchers in general), teaching regulations, template of syllabus, and information about diversity/inclusion, teaching materials.
 
