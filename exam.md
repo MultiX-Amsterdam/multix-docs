@@ -16,6 +16,9 @@ This document explains what to do before, during, and after digital exams.
 This document also assumes that the digital exam uses the [ANS](http://ans.app/) tool.
 The target audience for this document include course coordinators and teaching staff members.
 
+This is also a live document that will periodically be updated.
+If you find errors in the information, please email Yen-Chia <y.c.hsu@uva.nl>, and he will greatly appreciate it.
+
 **Important: this document is created in the context of the Informatics Institute under the Bachelor Information Science program (Informatiekunde). The situation may be different if you teach in another faculty or in another program.**
 
 ### Table of Content

@@ -19,11 +19,7 @@ Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for 
 - [Lab Website](#lab-website)
 - [Lab Meeting](#lab-meeting)
 - [Find a Meeting Room](#reserve-room)
-- [Advice for PhD Students Specifically](#phd)
-- [General Advice for Researchers](#researchers)
-- [Diversity, Equity, and Inclusion](#dei)
-- [Teaching](#teaching)
-- [Other Resources](#other)
+- [For PhD Students](#phd)
 
 ## <a name="onboarding"></a>Onboarding Checklist
 
@@ -50,15 +46,20 @@ For questions specifically about ICT, contact Dennis Koelma. Below are some exam
 - Need to order a new computer
 - Need access to some specific software
 
-For questions specifically about administrative matters, contact the IVI secretary office **using their group email** (secr-ii-science@uva.nl). Below are some examples:
-
-- Want to reserve a meeting room
-- Want to be on a specific institution mailing list
-- Need something specific for your workplace
-
-For administrative matters regarding PhD students, you may need to fill out some forms and send the forms to the secretary office (or even need to get a signature from Marcel). You can find the [templates of the forms](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Af%3A%2Fr%2Fsites%2FFNWI_ORG_IVI_PhD%2FShared%2520Documents%2FGeneral%2FTemplates%3Fcsf%3D1%26web%3D1%26e%3D19XEjm&data=05%7C01%7Cm.worring%40uva.nl%7C90c306f345a648a0b80708db8cc857ab%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638258564330142810%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pT3uHeUrPiWPg4cjsm2sHII6tDCQYmQatHZCamQtMAw%3D&reserved=0) in the "IVI PhD" Microsoft Teams group. Examples of these templates include coverage of conference costs, enrollment certification, proof of contract extension, etc.
-
 These people's email can be found by typing their names in the search bar after logging into [Microsoft Outlook](https://outlook.office.com/mail/) using the @uva.nl account.
+
+Starting September 2023, the Informatics Institute has general emails as contact points.
+Below are general principles.
+For details about who to contact for what kind of logistic matters, check the [menu of services](https://eur04.safelinks.protection.outlook.com/ap/b-59584e83/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Ab%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FGeneral%2FMenu%2520of%2520Services.pdf%3Fcsf%3D1%26web%3D1%26e%3D42kW1Q&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983439935%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=yBKVz8j0H6trGFXz%2Bfam1jxYMj8%2BKcLq0NsemxucT1s%3D&reserved=0).
+
+- The secretary's office (secr-ii-science@uva.nl) takes care of general questions and should be the first point of contact when it is unclear whom to contact for an issue.
+- The staffing office (staffing-ii-science@uva.nl) takes care of issues related to hiring people.
+- The finance office (finance-ii-science@uva.nl) takes care of money matters. For details, check the menu of services.
+
+If you have questions about administrative matters (e.g., ICT), check the following UvA internel resources:
+
+- [For Faculty of Science Staff](https://medewerker.uva.nl/en/science)
+- [A-Z list](https://medewerker.uva.nl/en/science/az/a-z.html)
 
 ## <a name="communication"></a>Communication
 
@@ -136,7 +137,11 @@ Besides the above-listed rooms that require reservations, you can also use the f
 
 When in doubt, contact the IVI secretary office by email.
 
-## <a name="phd"></a>Advice for PhD Students Specifically
+## <a name="phd"></a>For PhD Students
+
+For administrative matters regarding PhD students, you may need to fill out some forms and send the forms to the secretary office (or even need to get a signature from Marcel). IVI has created a [seperate channel](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Af%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FPhD%3Fcsf%3D1%26web%3D1%26e%3DGjuNd3&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983595442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WwkG%2FSx80LFHa7cr0wS%2FpCm4wVw6bTccpp1fDWoHSEk%3D&reserved=0) for PhDs. Below are two important links:
+- [Links to general information and documents for PhDs](https://eur04.safelinks.protection.outlook.com/ap/b-59584e83/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Ab%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FPhD%2F20230804%2520Links%2520to%2520general%2520information%2520and%2520documents%2520for%2520IvI%2520PhDs%2520v0.5%2520%25E2%2580%2593%2520BS.pdf%3Fcsf%3D1%26web%3D1%26e%3Dpttxf4&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983595442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=m3uZylqlG4hoxP%2FK43T9qwlrG6DMs332FLIKEdpqXvs%3D&reserved=0)
+- [Link to a PhD student guide](https://eur04.safelinks.protection.outlook.com/ap/b-59584e83/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Ab%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FPhD%2FIVI%2520PHD%2520GUIDE%2520by%2520IvI%2520PhD%2520Council.pdf%3Fcsf%3D1%26web%3D1%26e%3DueQm2q&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983595442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fGGBB1R0YG%2FuLau9M%2Fautf2DPVvybwp%2ByUrTz1ipXvM%3D&reserved=0)
 
 Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/science/phd/phd-candidates.html). Below are some other PhD handbooks:
 
@@ -147,60 +152,3 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 - [Jan van Gemert's research guidelines, TU Delft](https://jvgemert.github.io/links.html)
 - [Advice and guidebook for thriving and surviving Ph.D. and graduate school, Polo Club of Data Science, Georgia Tech](https://github.com/poloclub/awesome-grad-school)
 - [A Survival Guide to a PhD, Andrej Karpathy](http://karpathy.github.io/2016/09/07/phd/)
-
-## <a name="researchers"></a>General Advice for Researchers
-
-Below is a very nice guide for researchers in the Netherlands to understand the academic environment, including funding schemes:
-
-- [A beginner’s guide to Dutch academia](https://knaw.h5mag.com/beginners-guide/introduction)
-
-Below are general advice for researchers, including students and faculty members:
-
-- [Advice for Researchers and Students by Michael Ernst](https://homes.cs.washington.edu/~mernst/advice/)
-
-Below are some guidelines for Master's student supervision:
-
-- [Jan van Gemert's guideline for MSc thesis supervision, TU Delft](https://jvgemert.github.io/MSCthesis.html)
-
-## <a name="dei"></a>Diversity, Equity, and Inclusion
-
-Below are UvA documents and training courses about diversity, equity, and inclusion:
-
-- [Diversity policy of the University of Amsterdam](https://www.uva.nl/en/about-the-uva/about-the-university/diversity-and-inclusion/policy-framework/policy-framework.html)
-- [Mentoring programmes and training courses](https://www.uva.nl/en/about-the-uva/about-the-university/diversity-and-inclusion/mentoring-and-training/mentoring-and-training.html#Employees)
-
-## <a name="teaching"></a>Teaching
-
-Below are teaching related rules specifically for UvA:
-
-- [Teaching and Examination Regulations](https://www.uva.nl/en/about-the-uva/policy-and-regulations/rules-and-regulations/teaching/teaching.html#Model-regulations)
-- [Teaching and Examination Regulations (by study program)](https://student.uva.nl/onderwerpen/onderwijs-en-examenregelingen-oer)
-
-Below are UvA teaching matters that can be referred to students (such as changing study groups or requesting special accomedations):
-
-- [Course Registration (by study program)](https://student.uva.nl/en/topics/course-registration)
-- [Studying with a disability, dyslexia or chronic illness](https://student.uva.nl/en/topics/studying-with-a-disability-dyslexia-or-chronic-illness)
-- [Mental health](https://student.uva.nl/en/topics/mental-health)
-- [Thesis and graduation project](https://student.uva.nl/en/topics/thesis-and-graduation-project)
-
-Below is an example syllabus (which can be used as a template):
-
-- [Syllabus for the Data Science course](https://multix.io/data-science-book-uva/docs/syllabus.html)
-
-## <a name="other"></a>Other Resources
-
-Below are documents related to UvA:
-
-- [Documentation for the Faculty of Science](https://medewerker.uva.nl/en/science/az/a-z.html)
-- [Events in the Faculty of Science](https://medewerker.uva.nl/en/science/news-events/events/events.html)
-
-Below are some programming resources:
-
-- [Yen-Chia Hsu's coding cheatsheet](https://github.com/yenchiah/public-resources/blob/main/coding-cheatsheet.md)
-- [Yen-Chia Hsu's template for building front-end applications](https://github.com/yenchiah/project-website-template)
-- [Yen-Chia Hsu's template for building back-end applications](https://github.com/yenchiah/project-application-template)
-
-Below are some resources about how to use the [Git tool](https://git-scm.com):
-
-- [Understand how to use GitHub features](https://docs.github.com/en/get-started)
-- [Understand git operation workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
