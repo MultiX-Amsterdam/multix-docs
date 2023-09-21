@@ -9,8 +9,7 @@ nav_order: 1
 (Last updated: September 21, 2023)
 
 This document is created by Yen-Chia Hsu when preparing several grant proposals.
-This is also a live document that will periodically be updated.
-If you find errors in the information, please email Yen-Chia (<y.c.hsu@uva.nl>), and he will greatly appreciate it.
+This is a live document that will periodically be updated.
 
 **Important: this document is created in the context of the Informatics Institute at the University of Amsterdam. The situation may be different if you are in another faculty.**
 
@@ -25,7 +24,7 @@ If you find errors in the information, please email Yen-Chia (<y.c.hsu@uva.nl>),
 
 ## <a name="procedure"></a>How to get the budget approved by UvA?
 
-One important step in preparing the proposal is to get the budget approved by the project office (projecten-science@uva.nl).
+One important step in preparing the proposal is to get the budget approved by the project office (<projecten-science@uva.nl>).
 The project office can help you calculate the budget for hiring a person.
 If you need the office to do so, make sure to tell the project office about what kind of person you are looking for, such as "a student assistant who is currently studying in our institute's master's program."
 

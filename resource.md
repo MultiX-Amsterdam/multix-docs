@@ -9,6 +9,7 @@ nav_order: 1
 (Last updated: September 21, 2023)
 
 This document curates various resources, ranging from advice to PhD students (and researchers in general), teaching regulations, template of syllabus, and information about diversity/inclusion, teaching materials.
+This is a live document that will periodically be updated.
 
 ### Table of Content
 
