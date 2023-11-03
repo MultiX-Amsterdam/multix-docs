@@ -131,13 +131,13 @@ The subsections below provide details for each component.
 ### What's on Your Mind Session
 
 - This component is for sharing anything informally that is currently on your mind, which can include (but are not limited to) updates of research progress (e.g., problems that you are currently solving), difficulties in working practices (e.g., stress), challenges that you currently encounter, news (e.g., paper rejection/acceptance), etc. 
-- This component was called highlights meeting before, but we decided to change its name to indicate that people can also share the “lowlights” of their current situation. We recognize that things do not always work well, and it is totally fine to share your current struggles, concerns, and complaints.
-- During this session, we will use [this slide deck](https://docs.google.com/presentation/d/1Ev3xnYgHINQxCVMaiqmAngDHRN3W8WrsIh_-bRNEh9A/edit?usp=sharing) (created by Nanne) as a context and reference to each other’s work.
+- This component was called highlights meeting before, but we decided to change its name to indicate that people can also share the "lowlights" of their current situation. We recognize that things do not always work well, and it is totally fine to share your current struggles, concerns, and complaints.
+- During this session, we will use [this slide deck](https://docs.google.com/presentation/d/1Ev3xnYgHINQxCVMaiqmAngDHRN3W8WrsIh_-bRNEh9A/edit?usp=sharing) (created by Nanne) as a context and reference to each other's work.
 
 ### Thematic Session
 
 - This component is designed to be highly interactive and flexible to accommodate various topics. It can take the form of group discussions, interactive tutorials, workshops for brainstorming, etc. PhD students and postdocs can also take this session as the opportunity to practice how to give workshops/tutorials at conferences.
-- The default setting is that three “randomly” assigned lab members or volunteers will first give a joint presentation for 20-30 minutes on a specific theme, and the remaining time will be used for group discussions or activities. A senior staff member can also initiate a thematic session and have two other lab members support the senior staff to work on the topic. It can also be initiated by a group of lab members who share similar interests, concerns, or needs.
+- The default setting is that three "randomly" assigned lab members or volunteers will first give a joint presentation for 20-30 minutes on a specific theme, and the remaining time will be used for group discussions or activities. A senior staff member can also initiate a thematic session and have two other lab members support the senior staff to work on the topic. It can also be initiated by a group of lab members who share similar interests, concerns, or needs.
 - The themes can cover a wide range of topics. Below are some examples (but are not limited to them).
   - Tutorials/discussions of working practices (e.g., time management issues, work-related stress, ways to mentor Master student projects, ways to deal with emails, scientific communication to stakeholders, tips for navigating international conferences, lab culture)
   - Presentations of one sufficiently generic paper (or three papers that give different views on a common topic) that the assigned team members or volunteers find interesting.
@@ -146,7 +146,7 @@ The subsections below provide details for each component.
 
 ### Strategic Session
 
-- This component is for senior lab staff members (Marcel, Nanne, Yen-Chia, Zeno, Stevan) to share visions on the group’s research portfolio for the coming period, or any other strategic topic.
+- This component is for senior lab staff members (Marcel, Nanne, Yen-Chia, Zeno, Stevan) to share visions on the group's research portfolio for the coming period, or any other strategic topic.
 
 ## <a name="reserve-room"></a>Find a Meeting Room
 
