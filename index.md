@@ -95,7 +95,58 @@ Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterd
 
 ## <a name="lab-meeting"></a>Lab Meeting
 
-We have one regular lab meeting every week. The meeting frequency is reduced during summertime. Check our Slack channel for the meeting information (e.g., meeting time, meeting location, the virtual meeting link, etc). If you want to join the meeting in person, check the room number on the Slack channel. Usually, the meeting room is on the 3rd floor in LAB42.
+We have one regular lab meeting every week. During summer, the meetings are typically less frequent or in a simplified format. Please check the Excel file that is pinned on our Slack channel for the meeting information (e.g., meeting time, meeting location, the virtual meeting link, etc). If you want to join the meeting in person, check the room number on the Slack channel. Usually, the meeting room is on the 3rd floor in the LAB42 building.
+
+If you have questions about meetings, please contact the meeting coordinator, Wangyuan Ding.
+
+Lab meetings are primarily used to share work-related matters. But you are also encouraged to share non-work related things. Before the meeting, we usually have a group lunch together at around 12:00, which is used primarily for sharing non-work-related things, but you are also welcome to chat about work-related matters.
+
+Below are the goals of the lab meetings:
+- Have a place to share general announcements
+- Get to know each other's work
+- Initiate collaboration and stimulate a sense of group
+- Practice giving presentations
+- Share visions of the group's activities
+
+In response to these goals, we have restructured the group meeting format on October 18, 2023. Our meeting now contains five components, as listed below with their frequencies.
+- **Announcement**: every meeting
+- **Scientific Presentation**: once every 2 weeks
+- **What's on Your Mind Session**: once every 4 weeks
+- **Thematic Session**: once every 4 weeks
+- **Strategic Session**: once a year
+
+The subsections below provide details for each component.
+
+### Announcement
+
+- This component is always at the beginning of every lab meeting for anyone to announce lab matters that are not easy to share or communicate via Slack.
+
+### Scientific Presentation
+
+- This component is for sharing scientific work using slides on the screen.
+- The style can be formal or informal, chosen by the presenter. The formal style is similar to presentations at international conference venues, which can also be used as practice talks. The informal style can be used to gather feedback for early ideas interactively with the audience.
+- Each scientific presentation is strictly 30 minutes (20 minutes for presentation and 10 minutes for questions), meaning there are two presentations in one meeting.
+- After each presentation, a designated PhD student or Postdoc will initiate the first question as the starting point of discussion.
+
+### What's on Your Mind Session
+
+- This component is for sharing anything informally that is currently on your mind, which can include (but are not limited to) updates of research progress (e.g., problems that you are currently solving), difficulties in working practices (e.g., stress), challenges that you currently encounter, news (e.g., paper rejection/acceptance), etc. 
+- This component was called highlights meeting before, but we decided to change its name to indicate that people can also share the “lowlights” of their current situation. We recognize that things do not always work well, and it is totally fine to share your current struggles, concerns, and complaints.
+- During this session, we will use [this slide deck](https://docs.google.com/presentation/d/1Ev3xnYgHINQxCVMaiqmAngDHRN3W8WrsIh_-bRNEh9A/edit?usp=sharing) (created by Nanne) as a context and reference to each other’s work.
+
+### Thematic Session
+
+- This component is designed to be highly interactive and flexible to accommodate various topics. It can take the form of group discussions, interactive tutorials, workshops for brainstorming, etc. PhD students and postdocs can also take this session as the opportunity to practice how to give workshops/tutorials at conferences.
+- The default setting is that three “randomly” assigned lab members or volunteers will first give a joint presentation for 20-30 minutes on a specific theme, and the remaining time will be used for group discussions or activities. A senior staff member can also initiate a thematic session and have two other lab members support the senior staff to work on the topic. It can also be initiated by a group of lab members who share similar interests, concerns, or needs.
+- The themes can cover a wide range of topics. Below are some examples (but are not limited to them).
+  - Tutorials/discussions of working practices (e.g., time management issues, work-related stress, ways to mentor Master student projects, ways to deal with emails, scientific communication to stakeholders, tips for navigating international conferences, lab culture)
+  - Presentations of one sufficiently generic paper (or three papers that give different views on a common topic) that the assigned team members or volunteers find interesting.
+  - Tutorials/workshops on using a software tool, platform, or package (e.g., how to use the computing cluster, how to build a Jupyter Book website, how to run user studies on a crowdsourcing platform).
+- This new component was introduced during the restructuring of the meeting format on October 18, 2023. The thematic sessions are still at the experimental stage, requiring constant input from all lab members to refine the format and practice.
+
+### Strategic Session
+
+- This component is for senior lab staff members (Marcel, Nanne, Yen-Chia, Zeno, Stevan) to share visions on the group’s research portfolio for the coming period, or any other strategic topic.
 
 ## <a name="reserve-room"></a>Find a Meeting Room
 
