@@ -21,6 +21,7 @@ This is a live document that will periodically be updated.
 - [What does cofunding mean in NWO calls?](#cofunding)
 - [Where to find resources for data management and computing?](#data-management)
 - [How to subcontract a third-party organization?](#subcontract)
+- [What if I am not in a permanent position?](#not-permanent)
 
 ## <a name="procedure"></a>How to get the budget approved by UvA?
 
@@ -100,3 +101,13 @@ Also, it is important to pay attention to the justification and the money part o
 Usually, subcontracting can only be done when there is no such knowledge in our institute.
 For example, it can be problematic to subcontract a partner to pay for their hours in writing research papers, as such expertise exists in our institute.
 Another thing is that a large amount of subcontracting (e.g., 100K Euro) may raise NWO's attention, and thus, you will need to provide justifications in the grant proposal.
+
+## <a name="not-permanent"></a>What if I am not in a permanent position?
+
+When writing grant proposals, paying attention to the extra needs is important if you are not in a permanent position (e.g., the 18-month contract or tenure-track position).
+The background is that in the Netherlands, there is the tenure-track contract and the 18-month contract.
+For the tenure-track contact, the permanency (i.e., tenure) is usually evaluated together with promotion.
+For the 18-month contract, it is considered as a temporary contract and not tenure-track.
+In both cases, many NWO grant proposals require statements from the institute, and you will need to allocate extra time for this matter.
+Some proposals even have stricter rules that people in temporary positions cannot apply, mainly affecting people in the 18-month contract type.
+When in doubt, contact the NWO program officers to double-check.
