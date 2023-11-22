@@ -97,7 +97,7 @@ Our lab website is hosted in [this repository](https://github.com/MultiX-Amsterd
 
 We have one regular lab meeting every week. During summer, the meetings are typically less frequent or in a simplified format. Please check the Excel file that is pinned on our Slack channel for the meeting information (e.g., meeting time, meeting location, the virtual meeting link, etc). If you want to join the meeting in person, check the room number on the Slack channel. Usually, the meeting room is on the 3rd floor in the LAB42 building.
 
-If you have questions about meetings, please contact the meeting coordinator, Wangyuan Ding.
+If you have questions about meetings, please contact the meeting coordinator, **Fatemeh Gholamzadeh**.
 
 Lab meetings are primarily used to share work-related matters. But you are also encouraged to share non-work related things. Before the meeting, we usually have a group lunch together at around 12:00, which is used primarily for sharing non-work-related things, but you are also welcome to chat about work-related matters.
 
