@@ -57,6 +57,8 @@ For details about who to contact for what kind of logistic matters, check the [m
 - The staffing office takes care of issues related to hiring people. Search "staffing-ii-science" in UvA's Microsoft Outlook App for the email.
 - The finance office takes care of money matters. Search "finance-ii-science" in UvA's Microsoft Outlook App for the email.
 
+For data management matters (e.g., advice on a data management plan for an awarded grant), contact the data steward on the [research data management website](https://rdm.uva.nl/en/support/support.html#Faculty-of-Science).
+
 If you have questions about administrative matters (e.g., ICT), check the following UvA internel resources:
 
 - [For Faculty of Science Staff](https://medewerker.uva.nl/en/science)
