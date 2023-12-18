@@ -1,7 +1,7 @@
 ---
 title: Exam Checklist
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Checklist for Running a Digital Exam
