@@ -17,18 +17,23 @@ This is a live document that will periodically be updated.
 - [Reference Management](#reference-management)
 - [Virtual Environment](#virtual-environment)
 - [Cluster Operations](#cluster-operations)
+- [Writing](#writing)
 
 ## <a name="reference-management"></a>Reference Management
 
 [This slide deck](files/zotero.pdf) introduces how to use Zotero to manage references.
-The resources are contributed by Wangyuan Ding and Carlo Bretti.
+The resources are contributed by Wangyuan Ding and Carlo Bretti on 23 December 2023.
 
 ## <a name="virtual-environment"></a>Virtual Environment
 
 [This slide deck](files/docker.pdf) introduces how to use the Docker tool to set up a virtual environment.
-The resources are contributed by Wangyuan Ding and Carlo Bretti.
+The resources are contributed by Wangyuan Ding and Carlo Bretti on 23 December 2023.
 
 ## <a name="cluster-operations"></a>Cluster Operations
 
 [This slide deck](files/cluster-operations.pdf) introduces how to run scripts on clusters and use IDE to debug code on clusters.
-The resources are contributed by Wangyuan Ding and Carlo Bretti.
+The resources are contributed by Wangyuan Ding and Carlo Bretti on 23 December 2023.
+
+## <a name="writing"></a>Writing
+
+[This slide deck](files/writing.pdf) introduces writing strategies, including the writing process, tips, and logic. The resources were contributed by Elina Sergidou, Floris Gisolf, Yijia Zheng, and Sadaf Gulshad on 15 November 2023.
