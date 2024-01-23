@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: March 28, 2023)
+(Last updated: Jan 23, 2024)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde).
 
@@ -34,12 +34,13 @@ Below are two emails that are important in the communication of exam settings:
 - The exam desk (search "tentamenbureau-fnwi" in UvA's Microsoft Outlook App for the email)
 - The digital test office (search "digitaletoets-fnwi" in UvA's Microsoft Outlook App for the email)
 
-Generally speaking, the exam desk deals with matters related to the physical room (e.g., computer settings, invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS).
+Generally speaking, the exam desk deals with matters related to the physical room (e.g., invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS, Jupyter Notebook).
 In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
 
 ## <a name="planning"></a>Exam Planning
 
-- [x] Communicate with the exam desk about any required setting in the physical room. Special requests need to be done a couple of months ahead, for example, using a specific software during the exam. Usually, the exam desk will email the course coordinator for confirmation.
+- [x] Communicate with the digital test office about any required computer settings (e.g., ANS, Jupyter Notebook) and ask them to make a request to the ICT office to set the software tools correctly. Special requests need to be done a couple of months ahead (e.g., using a specific software during the exam). Usually, the digital test office will email the course coordinator for confirmation.
+- [x] About one month before the exam, the exam desk will contact the course coordinator by email. Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). If it is a resit, it looks like the exam desk will not ask automatically, so we need to request invigilators by email. The exam desk will also provide the attendance list upon request.
 
 ## <a name="long-before"></a>Long Before the Exam
 
@@ -48,7 +49,7 @@ Communication:
 - [x] If there are multiple partial exams, and the second (or any follow-up) exam will be harder than the first one, make an announcement on Canvas to remind students that the exam will be more difficult than the previous one.
 - [x] If there are multiple-choice questions and [guess correction](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction) will be enabled, communicate with the students about this using a Canvas announcement.
 - [x] Make an announcement on Canvas to emphasize that there is no Internet access during the exam.
-- [x] Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). Typically, the exam desk will ask if hiring invigilators is necessary via email. If it is a resit, it looks like the exam desk will not ask automatically, so we need to request invigilators by email.
+- [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 
 Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
@@ -73,11 +74,10 @@ Sanity checks:
 - [x] Check if the time slots that the exam team scheduled for the exam matches the listed exam time on [datanose](https://datanose.nl).
 - [x] Check the list of students with extra exam time, which will be provided by the exam desk by email. Then, make sure that on the attendance list, their name has a star-shaped symbol (\*) after it so that the invigilators know that these students have extra time during the exam. If there are missing star-shaped symbols, add them manually to the attendance list.
 - [x] The digital test office will schedule several time slots on ANS. Typically there are two of them. One for the standard exam schedule. And another one for students with extended time. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
-- [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 - [x] Ask the digital test office to double-check the software setting needed for the exam, for example Jupyter Notebook.
 
 Other actions:
-- [x] The exam desk will provide the attendance list by email upon request (usually, the exam desk will initialize the conversation). Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators.
+- [x] Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators.
 
 Optional:
 - [x] If this is the final exam, get the course evaluation form from the education desk at Science Park. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
