@@ -1,6 +1,6 @@
 # multix-docs
 
-This repository hosts the code for the documentaion of the MultiX Lab Amsterdam.
+This repository hosts the website for the documentaion of the MultiX Lab Amsterdam. The webite is built using [Just the Docs](https://just-the-docs.github.io/just-the-docs/). All the content in this repository is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Website template
 
@@ -48,7 +48,7 @@ To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.ym
   plugins:
     - jekyll-default-layout
   ```
-  
+
 Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
 
 ## Publishing your site on GitHub Pages
