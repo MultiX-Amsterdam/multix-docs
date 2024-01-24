@@ -9,7 +9,4 @@ _site/
 .bundle/
 vendor/
 
-Gemfile
-Gemfile.lock
-
 .DS_Store
