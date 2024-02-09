@@ -74,6 +74,11 @@ Each year at the Informatics Institute, there are big thesis fairs (usually arou
 
 - [Project Marketplace](https://thesisfair.ivi.uva.nl/marketplace)
 
+Below are links to e-learning modules about generative AI tools' impact in teaching:
+
+- [For lecturers and teaching assistants](https://rise.articulate.com/share/ZnOKVfHDkKjhmoXya9P91gzlpFPt_pdy#/)
+- [For students](https://rise.articulate.com/share/MyfLgG-cXE1a7XBuctQhndpJB-BgpYny#/)
+
 ## <a name="other"></a>Other Resources
 
 Below are documents related to UvA:
