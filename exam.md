@@ -67,7 +67,7 @@ Exam materials:
 - [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
 - [x] Ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
 - [x] Set a password on ANS so that students can start at the same time. The password setting can be found on `Settings -> Accessibility -> Access`.
-- [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * points / total`. Guess correction is recommended to be enabled. Typically, set the lowest mark limit to 1 (which is the base grade), and set the highest mark limit to 10. Also, set the rounding to **one decimal** (this is documented in the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average)).
+- [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `10 * obtained_points / total_points`. Set the pass mark to `5.5`. Guess correction is recommended to be enabled (also with the "Limit the guess correction to zero" option enabled). Typically, set the lowest mark limit to `1` (which is the base grade), and set the highest mark limit to `10`. Also, set the rounding to `**round to one decimal**` (this is documented in the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average)).
 - [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS and check if the digital exam setting is correct.
 
 Sanity checks:
