@@ -6,7 +6,7 @@ nav_order: 1
 
 # Working Practices
 
-(Last updated: December 18, 2023)
+(Last updated: February 21, 2024)
 
 This document curates working practice matters, such as tips for reference management in research, virtual environment settings, commands for running scripts on clusters, etc.
 Many resources here are from the thematic sessions in our lab meeting.
@@ -18,6 +18,9 @@ This is a live document that will periodically be updated.
 - [Virtual Environment](#virtual-environment)
 - [Cluster Operations](#cluster-operations)
 - [Writing](#writing)
+- [Reproducibility](#reproduce)
+- [Data Synchronization](#data-sync)
+- [Academic Reading](#academic-reading)
 
 ## <a name="reference-management"></a>Reference Management
 
@@ -37,3 +40,15 @@ The resources were contributed by Wangyuan Ding and Carlo Bretti on 23 December 
 ## <a name="writing"></a>Writing
 
 [This slide deck](files/writing.pdf) introduces writing strategies, including the writing process, tips, and logic. The resources were contributed by Elina Sergidou, Floris Gisolf, Yijia Zheng, and Sadaf Gulshad on 15 November 2023.
+
+## <a name="reproduce"></a>Reproducibility
+
+[This slide deck](files/reproducibility.pdf) introduces reproducibility in research, presented by Ujjwal Sharma on 24 January 2024.
+
+## <a name="data-sync"></a>Data Synchronization
+
+[This slide deck](files/sync-data.pdf) introduces different ways of synchronizing data across machines, presented by Goncalo Marcelino on 24 January 2024.
+
+## <a name="academic-reading"></a>Academic Reading
+
+[This slide deck](files/improve-academic-reading.pdf) introduces ways of improving academic reading skills, presented by Jiayi Shen and Fatemeh Gholamzadeh on 21 February 2024.
