@@ -6,9 +6,9 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Jan 23, 2024)
+(Last updated: Feb 27, 2024)
 
-This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde).
+This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
 A digital exam means that students take the exam using software tools.
 The exam is typically conducted in a physical room with computers.
@@ -90,21 +90,23 @@ Be there at the exam location **at least 45 minutes early** before the exam star
 Communicate the following to the invigilators:
 - [x] Have all the students with extra time sitting in the row that is as far away from the entrance as possible to prevent them from being disturbed.
 - [x] Explain when and how to check student ID. Typically, having the student ID card is sufficient to check if the ID number matches the one on the attendance list. It is better if students bring government-issued IDs.
-- [x] Give the student attendance list, and communicate that students do not need to sign on the sheet. Ask invigilators to just put a checkmark on the attendance list after checking the ID. In this way, we minimize disturbance to students.
+- [x] Give the student attendance list to the invigilators. Ask invigilators to just put a checkmark on the attendance list after checking the ID. Do not ask students to sign the list when they are working on the exam. In this way, we minimize disturbance to students.
+- [x] Explain that students need to sign the attendance list when they finish the exam before leaving the room.
 - [x] Explain the allowed/disallowed items for students to bring to the exam, such as a one-page cheatsheet.
-- [x] Let students enter the exam room about 10-15 minutes before the exam starts officially. In this way, the staff members on site can help students deal with login problems.
+- [x] Let students enter the exam room about 15 minutes before the exam starts officially. In this way, the staff members on site can help students deal with login problems.
 
 Communicate the following to the technical support people:
 - [x] Explain the software (e.g., Jupyter Notebook) that is needed for the exam and check if it is set correctly on the computer before the exam starts.
 
 Other actions:
 - [x] Give students the password on ANS right before the exam starts using the microphone in the exam room.
+- [x] Explain the exam rules to the students, such as the time that they can leave the room, toliet visits, raising hand if there is a question, allowed items, etc.
 
 Problem handling:
 - [x] If a student should have extra time but is not set correctly, email the digital test office and ask them for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to `Taking -> Timeslots` to select a time slot and add a student by name or student ID number).
 - [x] If a student cannot log in to the exam computer, ask the staff members on site to help the student log in to their computer.
 - [x] For any other problems that we are not sure how to solve, email the digital test office and the exam desk with an "urgent" tag in the email title. Usually the digital test office and the exam desk reply fast during the exam time.
-- [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes).
+- [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes). You can also do this by yourself (go to `Taking -> Participants` and click on the three dots button near the student name).
 - [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, email the digital test office to ask them to resolve the problem.
 - [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator/director to report the case and ask for approval.
 - [x] If the Jupyter Notebook icon on the desktop is missing, or the Jupyter Notebook icon is there but nothing happens after clicking on it, tell the technical support to fix that. It could be the problem that students are not logged in using their own account (sometimes the technical support people just log everyone in general), and there seems to be some weird permission problems in using software if logged in this way.
