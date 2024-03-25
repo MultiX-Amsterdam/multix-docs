@@ -21,6 +21,7 @@ This is a live document that will periodically be updated.
 - [Reproducibility](#reproduce)
 - [Data Synchronization](#data-sync)
 - [Academic Reading](#academic-reading)
+- [Multimodal LLM Survey](#multimodal-llm-survey)
 
 ## <a name="reference-management"></a>Reference Management
 
@@ -52,3 +53,7 @@ The resources were contributed by Wangyuan Ding and Carlo Bretti on 23 December 
 ## <a name="academic-reading"></a>Academic Reading
 
 [This slide deck](files/improve-academic-reading.pdf) introduces ways of improving academic reading skills, presented by Jiayi Shen and Fatemeh Gholamzadeh on 21 February 2024.
+
+## <a name="multimodal-llm-survey"></a>Multimodal LLM Survey
+
+[This slide deck](files/surve-multimodal-llm.pdf) introduces Multimodal Large Language Models, presented by Conor McCarthy and Shuai Wang on 20 March 2024.
