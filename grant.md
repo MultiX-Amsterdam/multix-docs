@@ -102,6 +102,10 @@ Usually, subcontracting can only be done when there is no such knowledge in our 
 For example, it can be problematic to subcontract a partner to pay for their hours in writing research papers, as such expertise exists in our institute.
 Another thing is that a large amount of subcontracting (e.g., 100K Euro) may raise NWO's attention, and thus, you will need to provide justifications in the grant proposal.
 
+One very important thing is that subcontracting needs to pay [21% VAT](https://www.government.nl/topics/vat/vat-rates-and-exemptions) because subcontracting is treated as a business.
+So this means that if the grant allocates 10K for subcontracting, the organization that is subcontracted will receive less money, which needs to be considered in the budget plan.
+To make subcontracting happen on the UvA side, first ask the organization that you want to subcontract to provide a quote (with detailed costs, such as personnel hours and the hourly rate), and then contact the [IXA legal team](https://www.ixa.nl/about/teams/ixa-legalteam/).
+
 ## <a name="not-permanent"></a>What if I am not in a permanent position?
 
 When writing grant proposals, paying attention to the extra needs is important if you are not in a permanent position (e.g., the 18-month contract or tenure-track position).
