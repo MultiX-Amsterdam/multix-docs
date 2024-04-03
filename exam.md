@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Feb 27, 2024)
+(Last updated: Apr 3, 2024)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
