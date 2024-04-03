@@ -67,7 +67,7 @@ Exam materials:
 - [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
 - [x] Ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
 - [x] Set a password on ANS so that students can start at the same time. The password setting can be found on `Settings -> Accessibility -> Access`.
-- [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * obtained_points / total_points`. Set the pass mark to `5.5`. Guess correction is recommended to be enabled (also with the "Limit the guess correction to zero" option enabled). Typically, set the lowest mark limit to `1` (which is the base grade), and set the highest mark limit to `10`. Also, set the rounding to `**round to one decimal**` (this is documented in the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average)).
+- [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * obtained_points / total_points`. Set the pass mark to `5.5`. Guess correction is recommended to be enabled (also with the "Limit the guess correction to zero" option enabled). Typically, set the lowest mark limit to `1` (which is the base grade), and set the highest mark limit to `10`. Also, set the rounding to `**two decimal**`.
 - [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS and check if the digital exam setting is correct.
 
 Sanity checks:
@@ -117,7 +117,8 @@ Optional:
 ## <a name="after"></a>After the Exam
 
 Grading related:
-- [x] First [export the grades from ANS](https://support.ans.app/hc/en-us/articles/360036410294-Export-results) into a CSV file, and then [import the grades to Canvas](https://canvas.uva.nl/courses/169/pages/using-the-gradebook?module_item_id=1237607#Import_Grades).
+- [x] Based on the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average), all the partial grades should not be rounded when being used to calculate the final grade. So this means that we need to go to Canvas and [import the ANS test results directly](https://canvas.uva.nl/courses/169/pages/final-grades-import-results-from-testvision-sowiso-ans-and-excel#Toetsresultaten). Importing the grade this way will prevent ANS from rounding the grade. Do not output the grade to CSV and then import the CSV to Canvas, which will have the rounding problem.
+- [x] If there is a problem in some questions that you need to adjust the grade, use the review feature on ANS to do so (see the "Adjustments to the grading scheme" section on [this page](https://support.ans.app/hc/en-us/articles/360033652094-Start-reviewing)).
 - [x] Within 20 working days, release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas.
 
 There are several ways for students to inspect their grades, and some examples are listed below:
