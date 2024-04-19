@@ -6,7 +6,7 @@ nav_order: 1
 
 # Working Practices
 
-(Last updated: February 21, 2024)
+(Last updated: Feb 21, 2024)
 
 This document curates working practice matters, such as tips for reference management in research, virtual environment settings, commands for running scripts on clusters, etc.
 Many resources here are from the thematic sessions in our lab meeting.
@@ -22,6 +22,7 @@ This is a live document that will periodically be updated.
 - [Data Synchronization](#data-sync)
 - [Academic Reading](#academic-reading)
 - [Multimodal LLM Survey](#multimodal-llm-survey)
+- []
 
 ## <a name="reference-management"></a>Reference Management
 
@@ -57,3 +58,7 @@ The resources were contributed by Wangyuan Ding and Carlo Bretti on 23 December 
 ## <a name="multimodal-llm-survey"></a>Multimodal LLM Survey
 
 [This slide deck](files/surve-multimodal-llm.pdf) introduces Multimodal Large Language Models, presented by Conor McCarthy and Shuai Wang on 20 March 2024.
+
+## <a name="internship"></a>Internship
+
+[This slide deck](files/internship.pdf) introduces internship tips and experiences, presented by Ivona Najdenkoska and Tom van Sonsbeek on 17 April 2024.

@@ -6,7 +6,7 @@ nav_order: 3
 
 # Grant Proposal Q&A
 
-(Last updated: September 21, 2023)
+(Last updated: Apr 19, 2023)
 
 This document is created by Yen-Chia Hsu when preparing several grant proposals.
 This is a live document that will periodically be updated.
