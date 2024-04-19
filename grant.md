@@ -106,6 +106,23 @@ One very important thing is that subcontracting needs to pay [21% VAT](https://w
 So this means that the organization that is subcontracted will receive less money than your planned budget, which needs to be considered in advance during planning the activities.
 To make subcontracting happen on the UvA side, first ask the organization that you want to subcontract to provide a quote (with detailed costs, such as personnel hours and the hourly rate), and then contact the [IXA legal team](https://www.ixa.nl/about/teams/ixa-legalteam/) to create the contract.
 You need to provide the WBS number and the quote to the legal team.
+Also, you need to tell the legal team if a [data processing agreement](https://rsp.uva.nl/en/prepare/reaching-agreements/reaching-agreements.html) is needed by asking the privacy contact person in your institution.
+Generally speaking, if the subcontracting involves processing personal data, you will need a data processing agreement with the third-party organization.
+
+Below are the checklists of steps for subcontracting:
+- [x] Ask the IXA legal team to see who can help in subcontracting.
+- [x] Ask the third-party organization for a detailed quote with costs.
+- [x] Ask the privacy contact person in your institution to check if you need a data processing agreement.
+- [x] Email the following information to the IXA legal team person:
+  - The quote from the third-party organization
+  - The WBS number that will be used for the subcontracting cost
+  - Whether you need a data processing agreement or not
+  - Contact information (e.g., email of a contact person) of the third-party organization
+- [x] Check the contract that is created and returned to you.
+
+After that, the legal team will then ask the third-party organization to check the contract and also missing information.
+Once the third-party organization approves the agreement, the legal team will ask UvA (typically the institution manager) to sign the agreement.
+After UvA signs the agreement, the legal team will ask the third-party organization to sign the agreement.
 
 ## <a name="not-permanent"></a>What if I am not in a permanent position?
 
