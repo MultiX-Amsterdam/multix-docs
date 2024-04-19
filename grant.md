@@ -8,7 +8,7 @@ nav_order: 3
 
 (Last updated: Apr 19, 2023)
 
-This document is created by Yen-Chia Hsu when preparing several grant proposals.
+This document is created by Yen-Chia Hsu when preparing several grant proposals in Dutch academia.
 This is a live document that will periodically be updated.
 
 **Important: this document is created in the context of the Informatics Institute at the University of Amsterdam. The situation may be different if you are in another faculty.**
