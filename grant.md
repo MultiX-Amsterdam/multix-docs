@@ -118,9 +118,9 @@ Below are the checklists of steps for subcontracting:
   - The WBS number that will be used for the subcontracting cost
   - Whether you need a data processing agreement or not
   - Contact information (e.g., email of a contact person) of the third-party organization
-- [x] Check the contract that is created and returned to you.
+- [x] Check the subcontracting agreement that is created and returned to you.
 
-After that, the legal team will then ask the third-party organization to check the contract and also missing information.
+After that, the legal team will then ask the third-party organization to check the agreement and also missing information.
 Once the third-party organization approves the agreement, the legal team will ask UvA (typically the institution manager) to sign the agreement.
 After UvA signs the agreement, the legal team will ask the third-party organization to sign the agreement.
 
