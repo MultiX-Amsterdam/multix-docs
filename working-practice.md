@@ -22,7 +22,7 @@ This is a live document that will periodically be updated.
 - [Data Synchronization](#data-sync)
 - [Academic Reading](#academic-reading)
 - [Multimodal LLM Survey](#multimodal-llm-survey)
-- []
+- [Internship](#internship)
 
 ## <a name="reference-management"></a>Reference Management
 
