@@ -8,6 +8,7 @@ nav_order: 4
 
 (Last updated: Apr 19, 2024)
 
+This document is created by Yen-Chia Hsu when supervising students who need to have access to computing resources for their projects.
 This document explains how to work with computer clusters in Dutch academia.
 This is a live document that will periodically be updated.
 
