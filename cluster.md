@@ -68,23 +68,28 @@ On the Snellius cluster, the following terminal command (according to [this tuto
 srun --partition=gpu --gpus=2 --ntasks=1 --mem=60G --cpus-per-task=20 --time=01:30:00 --pty bash -i
 ```
 
-Notice that leaving the interactive session (e.g., using `Ctrl+C`) will cancel all the scripts that you are currently running. This is problematic and can also happen if you lose your internet connection (or accidentally disconnect from your VPN). If you want to detach from the interactive session, you should use the [screen](https://www.gnu.org/software/screen/manual/screen.html) or [tmux](https://github.com/tmux/tmux/wiki) tool. For example, the following commands will open a screen, which will bring you to a clean terminal.
+Notice that leaving the interactive session (e.g., using `Ctrl+C`) will cancel all the scripts that you are currently running. This is problematic and can also happen if you lose your internet connection (or accidentally disconnect from your VPN). If you want to detach from the interactive session, you should use the [screen](https://www.gnu.org/software/screen/manual/screen.html) or [tmux](https://github.com/tmux/tmux/wiki) tool. For example, the following commands will open a screen `job1`, which will bring you to a clean terminal.
 ```sh
 screen -mSL job1
 ```
+Optionally, if you do not want to specify a name, you can just use the following command:
+```sh
+screen
+```
+
 {: .important }
 > You ALWAYS need to deactivate the conda environment before running the `screen` command using `conda deactivate`. When you are inside a screen session, activate your conda environment again to run your code. If you forgot the deactivate conda before you enter a screen session, your code may not run correctly and can give errors.
 
-After that, you can run the `srun` command to request the interactive session. Once you are in the interactive session, you can then detach from the screen using `Ctrl+A+D`.
+After that, you can run the `srun` command to request the interactive session. Once you are in the interactive session, you can then detach from the screen using `Ctrl+A+D`. You can interrupt a command using `Ctrl+C`.
 
 After that, you can use the following command to check the list of screens that you have.
 ```sh
 screen -ls
 ```
 
-Then, you will see a list of screen IDs (someting like `56826.job1`) on the returned message. You can enter one specific screen by using the command below. Replace `SCREEN_ID` with your screen ID, such as `56826.job1`.
+Then, you will see a list of screen session names (someting like `56826.job1`) on the returned message. You can enter one specific screen by using the command below. Replace `SCREEN_SESSION_NAME` with your screen session name, such as `56826.job1`.
 ```sh
-screen -x SCREEN_ID
+screen -x SCREEN_SESSION_NAME
 ```
 
 If you no longer need the screen, you can type the following when you are in the screen to terminate it:
