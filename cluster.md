@@ -72,6 +72,8 @@ Notice that leaving the interactive session (e.g., using `Ctrl+C`) will cancel a
 ```sh
 screen -mSL job1
 ```
+{: .important }
+> You ALWAYS need to deactivate the conda environment before running the `screen` command using `conda deactivate`. When you are inside a screen session, activate your conda environment again to run your code. If you forgot the deactivate conda before you enter a screen session, your code may not run correctly and can give errors.
 
 After that, you can run the `srun` command to request the interactive session. Once you are in the interactive session, you can then detach from the screen using `Ctrl+A+D`.
 

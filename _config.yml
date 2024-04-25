@@ -6,3 +6,22 @@ url: https://multix-amsterdam.github.io/multix-docs
 
 aux_links:
   GitHub: https://github.com/MultiX-Amsterdam/multix-docs
+
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+compress_html:
+  blanklines: true
