@@ -16,6 +16,7 @@ This is a live document that will periodically be updated.
 - [General Advice for Researchers](#researchers)
 - [Diversity, Equity, and Inclusion](#dei)
 - [Teaching](#teaching)
+- [Dutch Language Learning](#learn-dutch)
 - [Other Resources](#other)
 
 ## <a name="researchers"></a>General Advice for Researchers
@@ -78,6 +79,15 @@ Below are links to e-learning modules about generative AI tools' impact in teach
 
 - [For lecturers and teaching assistants](https://rise.articulate.com/share/ZnOKVfHDkKjhmoXya9P91gzlpFPt_pdy#/)
 - [For students](https://rise.articulate.com/share/MyfLgG-cXE1a7XBuctQhndpJB-BgpYny#/)
+
+## <a name="learn-dutch"></a>Dutch Language Learning
+
+UvA offers [courses](https://intt.uva.nl/dutch-language-courses-nt2/before-state-exam/before-state-exam.html) for various Dutch language levels.
+
+Some other resources for self-learning:
+- [Een Beetje Nederlands](https://www.eenbeetjenederlands.nl/): a very nice podcast that introduces Dutch culture and history. The narrator talks slowly, and the content is easy to follow for people with A2-B1 level Dutch. Every episode has transcriptions (which is also very nice). You can listen to the podcast with the transcriptions.
+- [NPO Start](https://npo.nl/start): free videos with various topics. If you like to watch videos, there are many series to watch on NPO Start. You will need to have B1-B2 level Dutch to be able to follow the content. Videos have captions.
+- [Drie Onderwerpen in Makkelijke Taal](https://www.youtube.com/playlist?list=PLO72qiQ-gJuFzpCgQcsdd4lkulqeeBMC3): a YouTube channel with news videos from NOS Nieuws in easy language. The videos have captions and are suitable for people with A2-B1 level Dutch.
 
 ## <a name="other"></a>Other Resources
 
