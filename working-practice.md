@@ -62,3 +62,7 @@ The resources were contributed by Wangyuan Ding and Carlo Bretti on 23 December 
 ## <a name="internship"></a>Internship
 
 [This slide deck](files/internship.pdf) introduces internship tips and experiences, presented by Ivona Najdenkoska and Tom van Sonsbeek on 17 April 2024.
+
+## <a name="presentation-powerpoint"></a>Presentation and Powerpoint
+
+[This slide deck](files/how-to-present.pdf) introduces good and bad presentation practices, presented by Meike Kombrink on 12 June 2024. On the same date, [this slide deck](files/powerpoint-tips.pdf) introduces PowerPoint tips and tricks, presented by Merel de Leeuw den Bouter.
