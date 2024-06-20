@@ -23,6 +23,7 @@ This is a live document that will periodically be updated.
 - [Academic Reading](#academic-reading)
 - [Multimodal LLM Survey](#multimodal-llm-survey)
 - [Internship](#internship)
+- [Presentation and Powerpoint](#presentation-powerpoint)
 
 ## <a name="reference-management"></a>Reference Management
 
