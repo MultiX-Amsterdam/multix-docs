@@ -6,7 +6,7 @@ nav_order: 0
 
 # MultiX Lab General Information
 
-(Last updated: Dec 18, 2023)
+(Last updated: Jul 23, 2024)
 
 Welcome to the Multimedia Analytics Lab Amsterdam (MultiX)! This website is for the lab documentation. For our official lab website, please visit [https://multix.io](https://multix.io).
 This is a live document that will periodically be updated.
@@ -28,7 +28,9 @@ Below is a checklist of the onboarding procedure:
 
 - [x] Make sure you can login to your @uva.nl email on [Microsoft Outlook](https://outlook.office.com/mail/)
 - [x] Make sure you can login to the [UvA self-service portal](https://flp.sap.uva.nl/fiori?saml2idp=http://login.uva.nl/adfs/services/trust#Shell-home)
-- [x] Ask Dennis Koelma to add you to the group mailing list
+- [x] Ask Dennis Koelma to add you to the MultiX group mailing list
+- [x] Ask Dennis Koelma to give you access to the IVI and DAS computing clusters
+- [x] Ask Dennis Koelma and your supervisor to arrange laptop, desktop, and monitor screens
 - [x] Ask Nanne van Noord to add you to our Microsoft Outlook group calendar
 - [x] Ask Nanne van Noord to add you to our Slack channel
 - [x] Ask Yen-Chia Hsu to add you to our team channel on Microsoft Teams

@@ -6,7 +6,7 @@ nav_order: 4
 
 # Computing Cluster
 
-(Last updated: Apr 19, 2024)
+(Last updated: Jul 23, 2024)
 
 This document is created by Yen-Chia Hsu when supervising students who need to have access to computing resources for their projects.
 This document explains how to work with computer clusters in Dutch academia.
@@ -20,6 +20,7 @@ This is a live document that will periodically be updated.
   - [How to estimate computing hours in SBUs?](#snellius-sbu)
   - [How to run scripts on the Snellius cluster?](#snellius-run-script)
   - [How to manage your code and data?](#snellius-code-data)
+  - [Troubleshooting](#troubleshooting)
 
 ## <a name="clusters"></a>Available Computer Clusters
 
@@ -27,7 +28,7 @@ Computing resources are important for projects that involve heavy computing (e.g
 
 ## <a name="snellius"></a>SURF Snellius Cluster
 
-### <a name="snellius-account"></a> How to apply for a Snellius account?
+### <a name="snellius-account"></a>How to apply for a Snellius account?
 
 To apply for the Snellius cluster access, you can go straight to this [SURF service desk link](https://servicedesk.surf.nl/) (which requires logging in using your UvA credential). After logging in, click on the "Direct institute contract" button under the "Apply for access" section.
 
@@ -99,7 +100,7 @@ exit
 
 Usually, a good practice is to use the `srun` command with interactive sessions to test if your script can run on the cluster and then use the `sbatch` command to submit the actual job that needs to run for a long time. For how to use `sbatch`, refer to [this tutorial developed by a UvA course](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial1/Lisa_Cluster.html). It also contains information about how to set up your development environment (e.g., PyTorch and Anaconda).
 
-### <a name="snellius-code-data"></a> How to manage your code and data?
+### <a name="snellius-code-data"></a>How to manage your code and data?
 
 You can use the [Git](https://git-scm.com/) tool to manage code. There are many online Git services for hosting code, such as [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), etc. In this way, you can sync the code on both your local machine (e.g., your personal MAC) and remote server (e.g., your Snellius space). If you are new to Git, check the [Git guide](https://github.com/git-guides). Also, here is a [15-minute Git tutorial video](https://www.youtube.com/watch?v=USjZcfj8yxE).
 
@@ -122,3 +123,18 @@ You can also specify a list of file names. The example below will sync files `he
 ```sh
 rsync -av /data/project-potions/{healing,invisibility,speed}_potion.py hpotter@snellius.surf.nl:/var/www/project-potions/
 ```
+
+### <a name="troubleshooting"></a>Troubleshooting
+
+Solutions for some problems can be found on the [Snellius documentation website](https://servicedesk.surf.nl/wiki/display/WIKI/Snellius) or the [Slurm documentation website](https://slurm.schedmd.com/). Below are some common problems and their potential solutions.
+
+#### I got errors when running interactive sessions and sbatch jobs. What to do?
+- It is possible that your ran out of the computing budget. Use `accinfo --product gpu` to check if you still have available budget. If not, contact the Snellius help desk.
+
+#### It takes a very long time to request a computing code. What to do?
+- You can use the `sinfo` command to check the state of the nodes. Here is the [documentation of the meaning of node states](https://slurm.schedmd.com/sinfo.html#SECTION_NODE-STATE-CODES) (e.g., drained, down). Then, you can use the `--exclude` option in the `srun` command (for example, `--exclude=gcn42,gcn56`) to exclude the nodes that are drained.
+
+#### About half of my SBATCH jobs failed. It looks like the code just hangs there and does nothing after loading the modules. But if I request interactive sessions, the code always works. What should I do?
+- Consider using `srun python -u` to check whether the job is indeed hanging. However, using `-u` is not good because it puts a lot of pressure on the network and filesystem.
+- Consider also adding the line `module purge` before loading any other modules to ensure that no previous modules affect the current job.
+- A recommended solution is to add a line `sys.stdout.flush()` after important print statements.

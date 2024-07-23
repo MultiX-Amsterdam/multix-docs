@@ -4,9 +4,9 @@ layout: default
 nav_order: 3
 ---
 
-# Grant Proposal Q&A
+# Grant Proposal and Management Q&A
 
-(Last updated: Apr 19, 2023)
+(Last updated: Jul 23, 2024)
 
 This document is created by Yen-Chia Hsu when preparing several grant proposals in Dutch academia.
 This is a live document that will periodically be updated.
@@ -123,6 +123,11 @@ Below are the checklists of steps for subcontracting:
 After that, the legal team will then ask the third-party organization to check the agreement and also missing information.
 Once the third-party organization approves the agreement, the legal team will ask UvA (typically the institution manager) to sign the agreement.
 After UvA signs the agreement, the legal team will ask the third-party organization to sign the agreement.
+
+IMPORTANT: Make sure to allocate a large chunk of time to your project for subcontracting.
+For example, in my case, in 2024, the purchasing department (inkoop-fs) took care of the subcontracting process.
+The entire process took 126 days (more than 4 months) to complete, from initial contact until the signing of the contract by all parties.
+Within this chunk of time, about 64% of the time is used to wait for the purchasing department's response, and 20% is used to wait for the third-party organization.
 
 ## <a name="not-permanent"></a>What if I am not in a permanent position?
 

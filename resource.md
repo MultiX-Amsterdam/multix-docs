@@ -6,7 +6,7 @@ nav_order: 5
 
 # Resources
 
-(Last updated: Sep 21, 2023)
+(Last updated: Jul 23, 2024)
 
 This document curates various resources, ranging from advice to PhD students (and researchers in general), teaching regulations, template of syllabus, and information about diversity/inclusion, teaching materials.
 This is a live document that will periodically be updated.
@@ -46,6 +46,10 @@ Below are UvA documents and training courses about diversity, equity, and inclus
 
 ## <a name="teaching"></a>Teaching
 
+Below is the training material about how to use Canvas in teaching:
+
+- [Canvas for UvA instructors](https://canvas.uva.nl/courses/169)
+
 Below are teaching related rules specifically for UvA:
 
 - [Teaching and Examination Regulations](https://www.uva.nl/en/about-the-uva/policy-and-regulations/rules-and-regulations/teaching/teaching.html#Model-regulations)
@@ -60,7 +64,7 @@ Below are UvA teaching matters that can be referred to students (such as changin
 
 Below is the syllabus that Yen-Chia Hsu used for his course (which can be used as a template):
 
-- [Syllabus for the Data Science course](https://multix.io/data-science-book-uva/docs/syllabus.html)
+- [Syllabus for the Data Science course](https://multix.io/data-science-book-uva/syllabus.html)
 
 Below is a tutorial about building a basic Jupyter Book website that Yen-Chia Hsu used in his course:
 
@@ -85,6 +89,7 @@ Below are links to e-learning modules about generative AI tools' impact in teach
 UvA offers [courses](https://intt.uva.nl/dutch-language-courses-nt2/before-state-exam/before-state-exam.html) for various Dutch language levels.
 
 Some other resources for self-learning:
+
 - [Een Beetje Nederlands](https://www.eenbeetjenederlands.nl/): a very nice podcast that introduces Dutch culture and history. The narrator talks slowly, and the content is easy to follow for people with A2-B1 level Dutch. Every episode has transcriptions (which is also very nice). You can listen to the podcast with the transcriptions.
 - [NPO Start](https://npo.nl/start): free videos with various topics. If you like to watch videos, there are many series to watch on NPO Start. You will need to have B1-B2 level Dutch to be able to follow the content. Videos have captions.
 - [Drie Onderwerpen in Makkelijke Taal](https://www.youtube.com/playlist?list=PLO72qiQ-gJuFzpCgQcsdd4lkulqeeBMC3): a YouTube channel with news videos from NOS Nieuws in easy language. The videos have captions and are suitable for people with A2-B1 level Dutch.
