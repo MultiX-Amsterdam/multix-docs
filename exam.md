@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Apr 3, 2024)
+(Last updated: Feb 26, 2025)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
@@ -110,6 +110,7 @@ Problem handling:
 - [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, email the digital test office to ask them to resolve the problem.
 - [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator/director to report the case and ask for approval.
 - [x] If the Jupyter Notebook icon on the desktop is missing, or the Jupyter Notebook icon is there but nothing happens after clicking on it, tell the technical support to fix that. It could be the problem that students are not logged in using their own account (sometimes the technical support people just log everyone in general), and there seems to be some weird permission problems in using software if logged in this way.
+- [x] If someone forgets to bring ID cards, one option is to still allow the student to take the exam but clearly communicate that we will need to report the case to the examination committee, and it is up to the examination committee to decide if the grade will be valid or not.
 
 Optional:
 - [x] If this is the final exam, distribute the course evaluation form during the exam to students, for example, by placing the form at each desk in the exam room before the exam starts.
@@ -117,12 +118,14 @@ Optional:
 ## <a name="after"></a>After the Exam
 
 Grading related:
-- [x] Based on the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average), all the partial grades should not be rounded when being used to calculate the final grade. So this means that we need to go to Canvas and [import the ANS test results directly](https://canvas.uva.nl/courses/169/pages/final-grades-import-results-from-testvision-sowiso-ans-and-excel#Toetsresultaten). Importing the grade this way will prevent ANS from rounding the grade. Do not output the grade to CSV and then import the CSV to Canvas, which will have the rounding problem.
+- [x] Within some working days (typically 20), release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas. Check the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average) to know the exact number of days that are allowed for processing the grade. If you need to display the grade on the Canvas gradebook (not calculating the final grade), one option is to [export the grade first from ANS](https://support.ans.app/hc/en-us/articles/360036410294-Export-results), and then [import the grade to Canvas](https://canvas.uva.nl/courses/169/pages/using-the-gradebook?module_item_id=1237607#Import_Grades). To export ANS grade, go to `Results -> Export`. To import the grade to Canvas, go to `Settings -> Navigation` to make sure that the `Im/export grades` tab is enabled, then go to that tab to import the grade (notice that Safari does not work for this, but Google Chrome works).
+- [x] Based on the [OER](https://student.uva.nl/en/topics/assessment-of-your-grade-point-average), all the partial grades should not be rounded when being used to calculate the final grade. So this means that we need to go to Canvas and [import the ANS test results directly](https://canvas.uva.nl/courses/169/pages/final-grades-import-results-from-testvision-sowiso-ans-and-excel#Toetsresultaten). Importing the grade this way will prevent ANS from rounding the grade. Do not output the grade to CSV and then import the CSV to Canvas for calculating the final grade, which will have the rounding problem.
 - [x] If there is a problem in some questions that you need to adjust the grade, use the review feature on ANS to do so (see the "Adjustments to the grading scheme" section on [this page](https://support.ans.app/hc/en-us/articles/360033652094-Start-reviewing)).
-- [x] Within 20 working days, release the grade on Canvas and tell students how they can inspect their grade by making an announcement on Canvas.
+
 
 There are several ways for students to inspect their grades, and some examples are listed below:
-- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Also remember to set the access password. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator.
+- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator. An example of the ANS grade publication setting is below:
+![ANS grade publication example](imgs/ans-grade-inspection-setting.png)
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time.
 
 Optional:
