@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Feb 26, 2025)
+(Last updated: Mar 18, 2025)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
@@ -34,8 +34,7 @@ Below are two emails that are important in the communication of exam settings:
 - The exam desk (search "tentamenbureau-fnwi" in UvA's Microsoft Outlook App for the email)
 - The digital test office (search "digitaletoets-fnwi" in UvA's Microsoft Outlook App for the email)
 
-Generally speaking, the exam desk deals with matters related to the physical room (e.g., invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS, Jupyter Notebook).
-In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
+Generally speaking, the exam desk deals with matters related to the physical room (e.g., invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS, Jupyter Notebook). In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
 
 ## <a name="planning"></a>Exam Planning
 
@@ -49,7 +48,6 @@ Communication:
 - [x] If there are multiple partial exams, and the second (or any follow-up) exam will be harder than the first one, make an announcement on Canvas to remind students that the exam will be more difficult than the previous one.
 - [x] If there are multiple-choice questions and [guess correction](https://support.ans.app/hc/en-us/articles/360014340098-Guess-correction) will be enabled, communicate with the students about this using a Canvas announcement.
 - [x] Make an announcement on Canvas to emphasize that there is no Internet access during the exam.
-- [x] Ask the exam desk about the name of the invigilators so that they can be correctly identified as the invigilators on site.
 
 Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
@@ -60,12 +58,12 @@ Optional:
 Communication:
 - [x] Make an announcement on Canvas to remind students of the following information:
   - They must bring a valid ID (student ID card or other government-issued ID) to the exam location.
-  - They are allowed to enter the exam room up to 30 minutes past the exam starting time.
+  - They are allowed to enter the exam room only up to 30 minutes past the exam starting time.
   - They are not allowed to leave the exam room during the first 30 minutes and last 15 minutes of the normal exam schedule. The purpose of the rule is to prevent fraud (during the first 30 minutes) and disturbance (during the last 15 minutes).
 
 Exam materials:
 - [x] When designing the ANS questions, have a description at the end of the test to indicate that this is the end of the exam. The purpose is to improve exam clarity.
-- [x] Ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
+- [x] Optionally, ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
 - [x] Set a password on ANS so that students can start at the same time. The password setting can be found on `Settings -> Accessibility -> Access`.
 - [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * obtained_points / total_points`. Set the pass mark to `5.5`. Guess correction is recommended to be enabled (also with the "Limit the guess correction to zero" option enabled). Typically, set the lowest mark limit to `1` (which is the base grade), and set the highest mark limit to `10`. Also, set the rounding to `**two decimal**`.
 - [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS and check if the digital exam setting is correct.
@@ -73,15 +71,14 @@ Exam materials:
 Sanity checks:
 - [x] Check if the time slots that the exam team scheduled for the exam matches the listed exam time on [datanose](https://datanose.nl).
 - [x] Check the list of students with extra exam time, which will be provided by the exam desk by email. Then, make sure that on the attendance list, their name has a star-shaped symbol (\*) after it so that the invigilators know that these students have extra time during the exam. If there are missing star-shaped symbols, add them manually to the attendance list.
-- [x] The digital test office will schedule several time slots on ANS. Typically there are two of them. One for the standard exam schedule. And another one for students with extended time. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
-- [x] Ask the digital test office to double-check the software setting needed for the exam, for example Jupyter Notebook.
+- [x] The digital test office will schedule a time slot on ANS for the exam with location restrictions. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
 
 Other actions:
-- [x] Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators.
+- [x] Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators. You can get the attendance list from DataNose. First log in to DataNose, click the `Course record` block at the top of the page (near the language selection part), click the exam (e.g., "Tentamen digitaal 1") under `Assessment overview` section, and finally click on the small `Generate` link under the `Documents` section.
 
 Optional:
-- [x] If this is the final exam, get the course evaluation form from the education desk at Science Park. The evaluation form is provided by <opleidingsassistent-iw-science@uva.nl> via email (normally they will initialize the conversation about course evaluation).
-- [x] Bring the course evaluation form to the exam location with some extra pens.
+- [x] If this is the final exam, get the digital course evaluation form ready before the exam. You should get an email from "UvA Q Studentfeedback" to adjust the digital form. If there is a problem, email <opleidingsassistent-iw-science@uva.nl>.
+
 
 ## <a name="during"></a>During the Exam
 
@@ -91,9 +88,10 @@ Communicate the following to the invigilators:
 - [x] Have all the students with extra time sitting in the row that is as far away from the entrance as possible to prevent them from being disturbed.
 - [x] Explain when and how to check student ID. Typically, having the student ID card is sufficient to check if the ID number matches the one on the attendance list. It is better if students bring government-issued IDs.
 - [x] Give the student attendance list to the invigilators. Ask invigilators to just put a checkmark on the attendance list after checking the ID. Do not ask students to sign the list when they are working on the exam. In this way, we minimize disturbance to students.
-- [x] Explain that students need to sign the attendance list when they finish the exam before leaving the room.
+- [x] For physical exams, explain that students need to sign the attendance list when they finish the exam before leaving the room. For digital exams, this is not really necessary because attendance is automatically registered on the digital exam system (such as ANS).
 - [x] Explain the allowed/disallowed items for students to bring to the exam, such as a one-page cheatsheet.
 - [x] Let students enter the exam room about 15 minutes before the exam starts officially. In this way, the staff members on site can help students deal with login problems.
+- [x] Explain the policy for students to go to the toilet during the exam. My suggestion is to allow students to do that, but an invigilator needs to accompany the student.
 
 Communicate the following to the technical support people:
 - [x] Explain the software (e.g., Jupyter Notebook) that is needed for the exam and check if it is set correctly on the computer before the exam starts.
@@ -104,16 +102,17 @@ Other actions:
 
 Problem handling:
 - [x] If a student should have extra time but is not set correctly, email the digital test office and ask them for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to `Taking -> Timeslots` to select a time slot and add a student by name or student ID number).
-- [x] If a student cannot log in to the exam computer, ask the staff members on site to help the student log in to their computer.
+- [x] If a student cannot log in to the exam computer, ask the technical staff members on site to help the student log in to their computer.
 - [x] For any other problems that we are not sure how to solve, email the digital test office and the exam desk with an "urgent" tag in the email title. Usually the digital test office and the exam desk reply fast during the exam time.
 - [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes). You can also do this by yourself (go to `Taking -> Participants` and click on the three dots button near the student name).
 - [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, email the digital test office to ask them to resolve the problem.
 - [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator/director to report the case and ask for approval.
 - [x] If the Jupyter Notebook icon on the desktop is missing, or the Jupyter Notebook icon is there but nothing happens after clicking on it, tell the technical support to fix that. It could be the problem that students are not logged in using their own account (sometimes the technical support people just log everyone in general), and there seems to be some weird permission problems in using software if logged in this way.
-- [x] If someone forgets to bring ID cards, one option is to still allow the student to take the exam but clearly communicate that we will need to report the case to the examination committee, and it is up to the examination committee to decide if the grade will be valid or not.
+- [x] If someone forgets to bring ID cards, one option is to still allow the student to take the exam and ask the student to present the ID cards later (e.g., in lectures).
+- [x] If the Jupyter Notebook software is not working, it could be the reason that the technical staff is using a non-guest account when logging into the computer, or it could be some permission setting issues that need rebooting of all machines in the room.
 
 Optional:
-- [x] If this is the final exam, distribute the course evaluation form during the exam to students, for example, by placing the form at each desk in the exam room before the exam starts.
+- [x] If this is the final exam, tell the students to also complete the digital course evaluation form after the exam.
 
 ## <a name="after"></a>After the Exam
 
@@ -127,9 +126,6 @@ There are several ways for students to inspect their grades, and some examples a
 - Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator. An example of the ANS grade publication setting is below:
 ![ANS grade publication example](imgs/ans-grade-inspection-setting.png)
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time.
-
-Optional:
-- [x] Return the course evaluation forms to the education desk at Science Park.
 
 ## <a name="other"></a>Other Notes
 

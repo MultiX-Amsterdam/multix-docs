@@ -6,7 +6,7 @@ nav_order: 4
 
 # Computing Cluster
 
-(Last updated: Jul 23, 2024)
+(Last updated: Mar 18, 2025)
 
 This document is created by Yen-Chia Hsu when supervising students who need to have access to computing resources for their projects.
 This document explains how to work with computer clusters in Dutch academia.
@@ -58,7 +58,10 @@ Below is an example of estimating SBUs. You can also find [another example on th
 
 ### <a name="snellius-run-script"></a>How to run scripts on the Snellius cluster?
 
-The Snellius cluster uses the [Slurm manager](https://slurm.schedmd.com/overview.html). When you log into the cluster, you are typically on the head node. You will need to request a compute node to run scripts. DO NOT run scripts on the head node, as you will slow down the head node and cause trouble to other users when they log in.
+The Snellius cluster uses the [Slurm manager](https://slurm.schedmd.com/overview.html). When you log into the cluster, you are typically on the head node. You will need to request a compute node to run scripts.
+
+{: .important }
+> DO NOT run scripts on the head node, as you will slow down the head node and cause trouble to other users when they log in.
 
 The easiest way to run scripts on a cluster is to use interactive sessions, which is like a normal terminal where you can type commands. The following two links contain more information about running Slurm interactive sessions:
 - [Interactive jobs (by SURF)](https://servicedesk.surf.nl/wiki/display/WIKI/Interactive+jobs)
@@ -104,7 +107,18 @@ Usually, a good practice is to use the `srun` command with interactive sessions 
 
 You can use the [Git](https://git-scm.com/) tool to manage code. There are many online Git services for hosting code, such as [GitHub](https://github.com/), [GitLab](https://about.gitlab.com/), [Bitbucket](https://bitbucket.org/), etc. In this way, you can sync the code on both your local machine (e.g., your personal MAC) and remote server (e.g., your Snellius space). If you are new to Git, check the [Git guide](https://github.com/git-guides). Also, here is a [15-minute Git tutorial video](https://www.youtube.com/watch?v=USjZcfj8yxE).
 
-For data management, according to this [SURF documentation on Snellius file systems](https://servicedesk.surf.nl/wiki/display/WIKI/Snellius+filesystems), your home directory has default capacity quotas for storing data (check the mentioned SURF documentation for the size of the default storage). You can also request an extra project space quota (when applying for the Snellius account), which is separate from the default quota. You may need to move your data from your local machine to the remote server. In this case, you can use the [rsync tool](https://linux.die.net/man/1/rsync). Here is [a tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories) about how to use it to sync the local and remote data. For example, if you are on the terminal of your local machine, you can use the following command to sync a file with path `/data/project-potions/healing_potion.py` to the `/var/www/project-potions/` folder on your remote server `snellius.surf.nl` with user name `hpotter`:
+For data management, check the [SURF documentation on Snellius file systems](https://servicedesk.surf.nl/wiki/display/WIKI/Snellius+filesystems) for different types of storage. There are three types of storage: home, scratch, and project file systems. Your home directory has default capacity quotas for storing data (which is the home file storage). Besides that, the scratch file system is for you to store temporary files in a fast speed. You can also request an extra project space quota (when applying for the Snellius account), which is separate from the default quota and is typically larger (so that you can store large datasets). If you want to know the available quotas that you have, check [this documentation](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/37388489/Checking+disk+usage) to use the follwoing commands:
+ - `myquota` (quota for all file systems)
+ - `home-quota` (quota for your home directory, such as `/home/USER_NAME`)
+ - `scratch-quota` (quota for fast temporary storage, such as `/scratch-local/USER_NAME`)
+ - `prjspc-quota` (quota for your project space, such as `/projects/0/PROJECT_NAME`).
+
+The project space directory should be in the email that SURF send to you after you apply for the Snellius account. You can figure out your home directory by typing the following command in your terminal:
+```sh
+pwd
+```
+
+You may need to move your data from your local machine to the remote server (e.g., your project space on Snellius). In this case, you can use the [rsync tool](https://linux.die.net/man/1/rsync). Here is [a tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories) about how to use it to sync the local and remote data. For example, if you are on the terminal of your local machine, you can use the following command to sync a file with path `/data/project-potions/healing_potion.py` to the `/var/www/project-potions/` folder on your remote server `snellius.surf.nl` with user name `hpotter`:
 ```sh
 rsync -av /data/project-potions/healing_potion.py hpotter@snellius.surf.nl:/var/www/project-potions/
 ```
@@ -124,17 +138,32 @@ You can also specify a list of file names. The example below will sync files `he
 rsync -av /data/project-potions/{healing,invisibility,speed}_potion.py hpotter@snellius.surf.nl:/var/www/project-potions/
 ```
 
+In case you need help from someone else to move the data to your project space, the workflow is to put the other person's public SSH key in the `~/.ssh/authorized_keys` file. The `~` symbol means your home directory. If the `~/.ssh/` folder is not there, use the following commands to create the file:
+```sh
+cd ~
+mkdir .ssh
+cd .ssh
+touch authorized_keys
+```
+
+After that, copy the person's public SSH key and put it into the `authorized_keys` file. This person can also be yourself on another machine (e.g., your laptop). You can use text editors in the terminal, such as `vim` or `nano`, to do this. If you need to check if the `~/.ssh/` exists, use the follwing command to list all directories (including the hidden ones):
+```sh
+ls -lah
+```
+
+If you need to create a SSH private and public key pair, check [this SURF documentation](https://servicedesk.surf.nl/wiki/spaces/WIKI/pages/62226987/Creating+and+using+an+SSH+key+pair+on+the+Terminal).
+
 ### <a name="troubleshooting"></a>Troubleshooting
 
 Solutions for some problems can be found on the [Snellius documentation website](https://servicedesk.surf.nl/wiki/display/WIKI/Snellius) or the [Slurm documentation website](https://slurm.schedmd.com/). Below are some common problems and their potential solutions.
 
-I got errors when running interactive sessions and sbatch jobs. What to do?
+#### I got errors when running interactive sessions and sbatch jobs. What to do?
 - It is possible that your ran out of the computing budget. Use `accinfo --product gpu` to check if you still have available budget. If not, contact the Snellius help desk.
 
-It takes a very long time to request a computing code. What to do?
+#### It takes a very long time to request a computing code. What to do?
 - You can use the `sinfo` command to check the state of the nodes. Here is the [documentation of the meaning of node states](https://slurm.schedmd.com/sinfo.html#SECTION_NODE-STATE-CODES) (e.g., drained, down). Then, you can use the `--exclude` option in the `srun` command (for example, `--exclude=gcn42,gcn56`) to exclude the nodes that are drained.
 
-About half of my SBATCH jobs failed. It looks like the code just hangs there and does nothing after loading the modules. But if I request interactive sessions, the code always works. What should I do?
+#### About half of my SBATCH jobs failed. It looks like the code just hangs there and does nothing after loading the modules. But if I request interactive sessions, the code always works. What should I do?
 - Consider using `srun python -u` to check whether the job is indeed hanging. However, using `-u` is not good because it puts a lot of pressure on the network and filesystem.
 - Consider also adding the line `module purge` before loading any other modules to ensure that no previous modules affect the current job.
 - A recommended solution is to add a line `sys.stdout.flush()` after important print statements.
