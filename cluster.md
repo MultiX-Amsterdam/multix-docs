@@ -157,13 +157,13 @@ If you need to create a SSH private and public key pair, check [this SURF docume
 
 Solutions for some problems can be found on the [Snellius documentation website](https://servicedesk.surf.nl/wiki/display/WIKI/Snellius) or the [Slurm documentation website](https://slurm.schedmd.com/). Below are some common problems and their potential solutions.
 
-#### I got errors when running interactive sessions and sbatch jobs. What to do?
+I got errors when running interactive sessions and sbatch jobs. What to do?
 - It is possible that your ran out of the computing budget. Use `accinfo --product gpu` to check if you still have available budget. If not, contact the Snellius help desk.
 
-#### It takes a very long time to request a computing code. What to do?
+It takes a very long time to request a computing code. What to do?
 - You can use the `sinfo` command to check the state of the nodes. Here is the [documentation of the meaning of node states](https://slurm.schedmd.com/sinfo.html#SECTION_NODE-STATE-CODES) (e.g., drained, down). Then, you can use the `--exclude` option in the `srun` command (for example, `--exclude=gcn42,gcn56`) to exclude the nodes that are drained.
 
-#### About half of my SBATCH jobs failed. It looks like the code just hangs there and does nothing after loading the modules. But if I request interactive sessions, the code always works. What should I do?
+About half of my SBATCH jobs failed. It looks like the code just hangs there and does nothing after loading the modules. But if I request interactive sessions, the code always works. What should I do?
 - Consider using `srun python -u` to check whether the job is indeed hanging. However, using `-u` is not good because it puts a lot of pressure on the network and filesystem.
 - Consider also adding the line `module purge` before loading any other modules to ensure that no previous modules affect the current job.
 - A recommended solution is to add a line `sys.stdout.flush()` after important print statements.
