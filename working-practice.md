@@ -24,6 +24,7 @@ This is a live document that will periodically be updated.
 - [Multimodal LLM Survey](#multimodal-llm-survey)
 - [Internship](#internship)
 - [Presentation and Powerpoint Tips](#presentation-powerpoint)
+- [Paper Presentation Rounds](#paper-presentation-rounds)
 
 ## <a name="reference-management"></a>Reference Management
 
