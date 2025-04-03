@@ -83,7 +83,7 @@ For sharing upcoming events, we have a shared Microsoft Outlook calendar. In gen
 
 ## <a name="lab-files"></a>Lab Files
 
-For sharing files that are related to the entire lab (or many people), we have a Microsoft Teams channel. One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. This is for putting and sharing files that are related to the entire lab. For sharing files within a very small number of people (e.g., paper writing), it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
+For sharing files that are related to the entire lab (or many people), we have a [Microsoft Teams channel](https://amsuni.sharepoint.com/:f:/r/sites/FNWI_ORG_IVI_MultiX/Shared%20Documents/General?csf=1&web=1&e=fITsWk). One benefit of sharing files in this way is that the storage space is very large, and we will know where the files are for the long term. This is for putting and sharing files that are related to the entire lab. For sharing files within a very small number of people (e.g., paper writing), it is still better to use your own way (e.g., via personal Google Drive). Below are some examples of usage:
 
 - Share documents (e.g., pdf or docx files) with the entire group, such as administrative matters
 - Share photos (e.g., those from social events) with the entire group

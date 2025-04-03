@@ -23,7 +23,7 @@ This is a live document that will periodically be updated.
 - [Academic Reading](#academic-reading)
 - [Multimodal LLM Survey](#multimodal-llm-survey)
 - [Internship](#internship)
-- [Presentation and Powerpoint](#presentation-powerpoint)
+- [Presentation and Powerpoint Tips](#presentation-powerpoint)
 
 ## <a name="reference-management"></a>Reference Management
 
@@ -64,6 +64,13 @@ The resources were contributed by Wangyuan Ding and Carlo Bretti on 23 December 
 
 [This slide deck](files/internship.pdf) introduces internship tips and experiences, presented by Ivona Najdenkoska and Tom van Sonsbeek on 17 April 2024.
 
-## <a name="presentation-powerpoint"></a>Presentation and Powerpoint
+## <a name="presentation-powerpoint"></a>Presentation and Powerpoint Tips
 
 [This slide deck](files/how-to-present.pdf) introduces good and bad presentation practices, presented by Meike Kombrink on 12 June 2024. On the same date, [this slide deck](files/powerpoint-tips.pdf) introduces PowerPoint tips and tricks, presented by Merel de Leeuw den Bouter.
+
+## <a name="paper-presentation-rounds"></a>Paper Presentation Rounds
+
+We have the following rounds of paper presentations:
+- [Round 1 (Jan 22, 2025)](files/paper-presentation-round-1-jan-22-2025.pdf)
+- [Round 2 (Feb 19, 2025)](files/paper-presentation-round-2-feb-19-2025.pdf)
+- [Round 3 (Mar 19, 2025)](files/paper-presentation-round-3-mar-19-2025.pdf)
