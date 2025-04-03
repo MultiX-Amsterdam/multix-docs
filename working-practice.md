@@ -6,7 +6,7 @@ nav_order: 1
 
 # Working Practices
 
-(Last updated: Jul 23, 2024)
+(Last updated: Apr 3, 2025)
 
 This document curates working practice matters, such as tips for reference management in research, virtual environment settings, commands for running scripts on clusters, etc.
 Many resources here are from the thematic sessions in our lab meeting.
