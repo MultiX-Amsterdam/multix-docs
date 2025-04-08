@@ -46,8 +46,10 @@ This document is created by Yen-Chia Hsu when running the data science and infor
 
 ## <a name="during"></a>During the Course
 
+- [x] Move students to a different group if necessary. First click on the course name on DataNose, click on the "Students" block at the top menu bar near "History", click on a student name, choose "move" to assign the student to another group.
+
 ## <a name="after"></a>After the Course
 
-- [x] Update the course record on DataNose with all assessment materials. On the DataNose home page, click the course name, go to "Course record" at the top menu bar near "History", check the "Assessment overview" section, click on the items (e.g., " Tentamen digitaal 1") that has a weight in the grade calculation, check the "Documents" section, and finally click on the "Add document" button to add the assessment materials (together with the answers if applied).
+- [x] Update the course record on DataNose with all assessment materials. On the DataNose home page, click the course name, click the "Course record" block at the top menu bar near "History", check the "Assessment overview" section, click on the items (e.g., " Tentamen digitaal 1") that has a weight in the grade calculation, check the "Documents" section, and finally click on the "Add document" button to add the assessment materials (together with the answers if applied).
 
 ## <a name="other"></a>Other Notes
