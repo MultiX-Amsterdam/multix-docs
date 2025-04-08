@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Mar 18, 2025)
+(Last updated: Apr 8, 2025)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
@@ -123,8 +123,7 @@ Grading related:
 
 
 There are several ways for students to inspect their grades, and some examples are listed below:
-- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator. An example of the ANS grade publication setting is below:
-![ANS grade publication example](imgs/ans-grade-inspection-setting.png)
+- Grade inspection without supervision: schedule a time slot using ANS to open the exam for a time period that allows students to inspect their exam grades, questions, and answers online. This can be done by going to the ANS system and selecting `Settings -> Publication -> Add timeslot`. Communicate with the student how they can ask questions, for example, by scheduling a meeting with the course coordinator. An example of the ANS grade publication setting is below:<br> <img src="imgs/ans-grade-inspection-setting.png" alt="ANS grade publication example" style="max-width:300px;"/>
 - Grade inspection with supervision: email the program coordinator to ask for help reserving a physical room for grade inspection during a specific time. Students can come to the room to access the exam materials and grades, as well as ask questions during the scheduled time.
 
 ## <a name="other"></a>Other Notes
