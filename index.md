@@ -21,6 +21,7 @@ This is a live document that will periodically be updated.
 - [Lab Meeting](#lab-meeting)
 - [Find a Meeting Room](#reserve-room)
 - [For PhD Students](#phd)
+- [PhD/Postdoc Teaching Policy](#teaching-phd-postdoc)
 
 ## <a name="onboarding"></a>Onboarding Checklist
 
@@ -213,3 +214,39 @@ Here is the [information of the UvA PhD program](https://medewerker.uva.nl/en/sc
 
 {: .important }
 > Notice that PhD candidates should not change their thesis after submission, even after feedback or conference review. Changing the thesis content after submission is strictly not allowed by regulation. Always print the original version of the submission for thesis defense.
+
+## <a name="teaching-phd-postdoc"></a>PhD/Postdoc Teaching Policy
+
+### PhD Teaching Policy
+
+The basis for MultiX's teaching policy is the institute level policy that each PhD, during the first three years, spends at least 10% of their employment time on education, which is set at 150 hours per year, as measured in DVM (Dutch: Docent Verdien Model, English approximation: Lecturer Earning Model). *This policy only applies to PhDs employed by the UvA.*
+
+PhD students can perform the following educational activities:
+- TA'ing for a course (75 DVM)
+- Thesis supervision (DVM varies depending on program)
+- Guest lectures for a course (4-8 DVM)
+
+The suggested teaching plan is as follows:
+- Year 1
+	- TA two courses
+- Year 2 & 3
+	- TA one course
+	- Supervise 2-3 theses per year
+
+Variations on this teaching plan are possible, but there is *a minimum of TA for 1 course per year*, with the strong recommendation of doing some supervision even when TA'ing for two courses in year 2 and 3.
+
+During your annual (or 9, 14, 24, 36 month) evaluations, you are expected to specify your teaching plan for the upcoming year. If no plan is specified, then the MultiX education coordinator will assign you to two courses for TA'ing.
+
+If the teaching plan is not realized (less than 150 DVM), the education coordinator may assign you an additional course for TA'ing in the subsequent year, extending into the fourth year. The inverse of this does not hold, i.e., doing more than the required teaching in one year does not mean you will have less teaching the next year.
+
+### Postdoc Teaching Policy
+
+Postdocs with a full-time appointment are similarly expected to spend at least 10% of their time, or 150 DVM, on teaching. The teaching plan will similarly have to be determined in the annual appraisal.
+
+For Postdocs, the following teaching activities can be considered:
+- Providing parts of a course, including lecturing (DVM to be discussed)
+- TA'ing for a course (75 DVM)
+- Thesis supervision (DVM varies depending on program)
+- Guest lectures for a course (4-8 DVM)
+
+Postdocs should aim to supervise at least 2 BSc/MSc graduation projects per year. Moreover, they are recommended to provide some guest lectures over the course of their appointment.
