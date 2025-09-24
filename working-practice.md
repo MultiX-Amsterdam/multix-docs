@@ -76,3 +76,6 @@ We have the following rounds of paper presentations:
 - [Round 2 (Feb 19, 2025)](files/paper-presentation-round-2-feb-19-2025.pdf)
 - [Round 3 (Mar 19, 2025)](files/paper-presentation-round-3-mar-19-2025.pdf)
 - [Round 4 (Apr 16, 2025)](files/paper-presentation-round-4-apr-16-2025.pdf)
+- [Round 5 (May 14, 2025)](files/paper-presentation-round-5-may-14-2025.pdf)
+- [Round 6 (Jun 11, 2025)](files/paper-presentation-round-6-jun-11-2025.pdf)
+- [Round 7 (Sep 24, 2025)](files/paper-presentation-round-7-sep-24-2025.pdf)
