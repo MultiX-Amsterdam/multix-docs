@@ -85,13 +85,14 @@ Optional:
 Be there at the exam location **at least 45 minutes early** before the exam starting time.
 
 Communicate the following to the invigilators:
-- [x] Have all the students with extra time sitting in the row that is as far away from the entrance as possible to prevent them from being disturbed.
+- [x] Have all the students with extra time sitting in the row that is as far away from the entrance as possible to prevent them from being disturbed. Also, put papers with message "this table is reserved for students with extra time" on the tables that we want the extra-time students to sit.
 - [x] Explain when and how to check student ID. Typically, having the student ID card is sufficient to check if the ID number matches the one on the attendance list. It is better if students bring government-issued IDs.
 - [x] Give the student attendance list to the invigilators. Ask invigilators to just put a checkmark on the attendance list after checking the ID. Do not ask students to sign the list when they are working on the exam. In this way, we minimize disturbance to students.
 - [x] For physical exams, explain that students need to sign the attendance list when they finish the exam before leaving the room. For digital exams, this is not really necessary because attendance is automatically registered on the digital exam system (such as ANS).
 - [x] Explain the allowed/disallowed items for students to bring to the exam, such as a one-page cheatsheet.
 - [x] Let students enter the exam room about 15 minutes before the exam starts officially. In this way, the staff members on site can help students deal with login problems.
 - [x] Explain the policy for students to go to the toilet during the exam. My suggestion is to allow students to do that, but an invigilator needs to accompany the student.
+- [x] When walking around the room to answer student questions, take several scrap papers in hand for students who ask for them.
 
 Communicate the following to the technical support people:
 - [x] Explain the software (e.g., Jupyter Notebook) that is needed for the exam and check if it is set correctly on the computer before the exam starts.
