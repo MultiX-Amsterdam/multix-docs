@@ -196,6 +196,12 @@ When in doubt, contact the IVI secretary office by email.
 
 ## <a name="phd"></a>For PhD Students
 
+About the PhD thesis expectations and collaboration policies, please refer to the following document that was released on 11 Feb 2026 under the consensus of senior staff members in the lab:
+- [MultiX PhD Thesis Policy](files/phd-thesis-policy.pdf)
+
+About the PhD defense procedure, see the following document that was released in Feb 2026:
+- [In Eight Steps to the Defense](files/8-steps-to-the-phd-defense.pdf)
+
 For administrative matters regarding PhD students, you may need to fill out some forms and send the forms to the secretary office (or even need to get a signature from Marcel). IVI has created a [seperate channel](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Af%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FPhD%3Fcsf%3D1%26web%3D1%26e%3DGjuNd3&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983595442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WwkG%2FSx80LFHa7cr0wS%2FpCm4wVw6bTccpp1fDWoHSEk%3D&reserved=0) for PhDs. Below are two important links:
 - [Links to general information and documents for PhDs](https://eur04.safelinks.protection.outlook.com/ap/b-59584e83/?url=https%3A%2F%2Famsuni.sharepoint.com%2F%3Ab%3A%2Fr%2Fsites%2FFNWI_ORG_IvI%2FGedeelde%2520documenten%2FPhD%2F20230804%2520Links%2520to%2520general%2520information%2520and%2520documents%2520for%2520IvI%2520PhDs%2520v0.5%2520%25E2%2580%2593%2520BS.pdf%3Fcsf%3D1%26web%3D1%26e%3Dpttxf4&data=05%7C01%7Cy.c.hsu%40uva.nl%7C08b5cab757614120179008dbb53d40a9%7Ca0f1cacd618c4403b94576fb3d6874e5%7C0%7C0%7C638303046983595442%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=m3uZylqlG4hoxP%2FK43T9qwlrG6DMs332FLIKEdpqXvs%3D&reserved=0)
 - [Link to a PhD student guide](https://ivi.uva.nl/about/phd-council/phd-council.html)
