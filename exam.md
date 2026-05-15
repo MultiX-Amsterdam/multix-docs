@@ -6,7 +6,7 @@ nav_order: 2
 
 # Checklist for Running a Digital Exam
 
-(Last updated: Apr 8, 2025)
+(Last updated: May 15, 2026)
 
 This document is created by Yen-Chia Hsu when running the data science course for the Bachelor Information Science program (Informatiekunde), based on personal experiences and also the university's [invigilation protocol](https://datanose.nl/#docentensite/examination-practical/invigilation).
 
@@ -30,15 +30,14 @@ The target audience for this document include course coordinators and teaching s
 
 ## <a name="contact"></a>Who to Contact
 
-Below are two emails that are important in the communication of exam settings:
+Below is the email that is important in the communication of exam settings:
 - The exam desk (search "tentamenbureau-fnwi" in UvA's Microsoft Outlook App for the email)
-- The digital test office (search "digitaletoets-fnwi" in UvA's Microsoft Outlook App for the email)
 
-Generally speaking, the exam desk deals with matters related to the physical room (e.g., invigilators hiring), and the digital test office deals with issues related to the software that will be used during the exam (e.g., ANS, Jupyter Notebook). In the following checklist, we refer to these emails using their names (i.e., the exam desk, or the digital test office).
+The exam desk deals with matters related to the physical room (e.g., invigilators hiring) and with issues related to the software that will be used during the exam (e.g., ANS, Jupyter Notebook). In the following checklist, we refer to the email using its name (i.e., the exam desk).
 
 ## <a name="planning"></a>Exam Planning
 
-- [x] Communicate with the digital test office about any required computer settings (e.g., ANS, Jupyter Notebook) and ask them to make a request to the ICT office to set the software tools correctly. Special requests need to be done a couple of months ahead (e.g., using a specific software during the exam). Usually, the digital test office will email the course coordinator for confirmation.
+- [x] Communicate with the exam desk about any required computer settings (e.g., ANS, Jupyter Notebook) and ask them to make a request to the ICT office to set the software tools correctly. Special requests need to be done a couple of months ahead (e.g., using a specific software during the exam). Usually, the exam desk will email the course coordinator for confirmation.
 - [x] About one month before the exam, the exam desk will contact the course coordinator by email. Communicate with the exam desk to hire invigilators (normally, 1 invigilator per 50 students). If it is a resit, it looks like the exam desk will not ask automatically, so we need to request invigilators by email. The exam desk will also provide the attendance list upon request.
 
 ## <a name="long-before"></a>Long Before the Exam
@@ -51,7 +50,7 @@ Communication:
 
 Optional:
 - [x] Provide a suggested study plan for the students to prepare exams (e.g., re-watch lecture recordings, review course slides, redo assignments, prepare one page cheatsheet, etc).
-- [x] If a student has conflicts in scheduling exams, one solution is to have the student take two (or multiple) exams together in one location. In this situation, ensure that the digital test office has communicated this well with the exam desk to allocate a desk for the student to stay longer. There is a chance that the people on site does not know the situation due to a lack of communication.
+- [x] If a student has conflicts in scheduling exams, one solution is to have the student take two (or multiple) exams together in one location. In this situation, ensure that the exam desk has allocated a desk for the student to stay longer. There is a chance that the people on site does not know the situation due to a lack of communication.
 
 ## <a name="just-before"></a>Just Before the Exam
 
@@ -66,12 +65,12 @@ Exam materials:
 - [x] Optionally, ask someone (a person that can check the exam materials) to review the exam materials and provide feedback for improvement.
 - [x] Set a password on ANS so that students can start at the same time. The password setting can be found on `Settings -> Accessibility -> Access`.
 - [x] Set the correct mark calculation by going to `Settings -> Mark calculation`. The marking formula should be `1 + 9 * obtained_points / total_points`. Set the pass mark to `5.5`. Guess correction is recommended to be enabled (also with the "Limit the guess correction to zero" option enabled). Typically, set the lowest mark limit to `1` (which is the base grade), and set the highest mark limit to `10`. Also, set the rounding to `**two decimal**`.
-- [x] Have the exam materials ready online on ANS and email them to the digital test office 7 days before the exam date. Ask the digital test office to schedule the exam time slots on ANS and check if the digital exam setting is correct.
+- [x] Have the exam materials ready online on ANS and email them to the exam desk 7 days before the exam date. Ask the exam desk to schedule the exam time slots on ANS and check if the digital exam setting is correct.
 
 Sanity checks:
 - [x] Check if the time slots that the exam team scheduled for the exam matches the listed exam time on [datanose](https://datanose.nl).
 - [x] Check the list of students with extra exam time, which will be provided by the exam desk by email. Then, make sure that on the attendance list, their name has a star-shaped symbol (\*) after it so that the invigilators know that these students have extra time during the exam. If there are missing star-shaped symbols, add them manually to the attendance list.
-- [x] The digital test office will schedule a time slot on ANS for the exam with location restrictions. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the digital test office and ask them for help resolving the problem.
+- [x] The exam desk will schedule a time slot on ANS for the exam with location restrictions. Check if the students who have time extensions are actually in the time slot with extensions. If not, email the exam desk and ask them for help resolving the problem.
 
 Other actions:
 - [x] Print `N+1` copies of the attendance list and bring them to the exam location, where `N` is the number of invigilators. We need to give them to the invigilators. You can get the attendance list from DataNose. First log in to DataNose, click the `Course record` block at the top of the page (near the language selection part), click the exam (e.g., "Tentamen digitaal 1") under `Assessment overview` section, and finally click on the small `Generate` link under the `Documents` section.
@@ -102,15 +101,15 @@ Other actions:
 - [x] Explain the exam rules to the students, such as the time that they can leave the room, toliet visits, raising hand if there is a question, allowed items, etc.
 
 Problem handling:
-- [x] If a student should have extra time but is not set correctly, email the digital test office and ask them for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to `Taking -> Timeslots` to select a time slot and add a student by name or student ID number).
-- [x] If a student cannot log in to the exam computer, ask the technical staff members on site to help the student log in to their computer.
-- [x] For any other problems that we are not sure how to solve, email the digital test office and the exam desk with an "urgent" tag in the email title. Usually the digital test office and the exam desk reply fast during the exam time.
-- [x] If a student has a problem logging in to ANS, email the digital test office and ask them to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes). You can also do this by yourself (go to `Taking -> Participants` and click on the three dots button near the student name).
-- [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, email the digital test office to ask them to resolve the problem.
+- [x] If a student should have extra time but is not set correctly, ask the onsite technical staff for help resolving the problem. Or we can just log in to ANS and manually add students to the time slots with extra time (go to `Taking -> Timeslots` to select a time slot and add a student by name or student ID number).
+- [x] If a student cannot log in to the exam computer, ask the onsite technical staff to help the student log in to their computer.
+- [x] If a student has a problem logging in to ANS, ask the onsite technical staff to create a temporary password for the student to log in. The password is only valid for a short time (roughly 15 minutes). You can also do this by yourself (go to `Taking -> Participants` and click on the three dots button near the student name).
+- [x] If students can log in to ANS but do not see the exam, we can manually add them to the ANS system by searching their student ID. This can be done by clicking the timeslot in ANS and clicking on the "Add learner" button. But if the student ID number (or name) does not appear on the ANS system, ask the onsite technical staff to resolve the problem.
 - [x] The general rule is that we cannot allow students to enter the exam room after 30 minutes. However, there is a chance that students can take the exam after 30 minutes if they are very late, providing that nobody has left the room (which means no possibility of exchanging information). In this case, allow the student to do the test but communicate with the student that the exam can be invalid (which may need approval). Later, email the program coordinator/director to report the case and ask for approval.
 - [x] If the Jupyter Notebook icon on the desktop is missing, or the Jupyter Notebook icon is there but nothing happens after clicking on it, tell the technical support to fix that. It could be the problem that students are not logged in using their own account (sometimes the technical support people just log everyone in general), and there seems to be some weird permission problems in using software if logged in this way. According to the technical support people, this is because Jupyter Notebook needs to store temp files on the machine, so students need to log in using their account name and password. When testing Jupyter Notebook on the machine, the teacher also needs to log in using UvA account.
 - [x] If there are errors when opening Jupyter Notebook and creating a notebook, first close the entire browser. Then, rerun the Jupyter Notebook program and create it again. It could be that the student go to another folder by clicking on the folder icon, and some weird permission problems happen.
 - [x] If someone forgets to bring ID cards, one option is to still allow the student to take the exam and ask the student to present the ID cards later (e.g., in lectures).
+- [x] For any other problems that we are not sure how to solve, ask the onsite technical staff or email the exam desk with an "urgent" tag in the email title.
 
 Optional:
 - [x] If this is the final exam, tell the students to also complete the digital course evaluation form after the exam.
